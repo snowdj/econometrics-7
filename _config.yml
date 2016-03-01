@@ -1,0 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Bryan S. Graham
+email: bgraham@econ.berkeley.edu
+name: Thoughts on econometrics, statistics, machine learning and data science
+description: > # this means to ignore newlines until "baseurl:"
+  Webpage of Bryan S. Graham, Associate Professor of Economics at the University
+  of California - Berkeley. This website contains information about Professor Graham's
+  research and teaching activities at UC Berkeley. Specifically materials, including
+  lecture notes and computer code, on the econometrics of networks, peer effects, 
+  panel data, missing data and causal inference.
+baseurl: "/econometrics" # the subpath of your site, e.g. /blog
+url: "http://bryangraham.github.io" # the base hostname & protocol for your site
+twitter_username: n/a
+github_username:  bryangraham
+
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM

@@ -1,0 +1,25 @@
+<style>
+img {
+    float: left;
+    margin: 10px 0 10px 10px;
+}
+</style>
+<aside>
+	<div class="container">
+		<a href="http://www.berkeley.edu/"><img src="{{ site.url}}{{ site.baseurl }}/downloads/UCBerkeley_wordmark_gold.png" alt="Berkeley Logo"></a>
+		<nav>
+			<ul>
+				{% for page in site.pages %} {% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				{% endif %} {% endfor %}
+				<li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+			</ul>
+			</li>
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<header>
+	<h1><a href="{{ site.url}}{{ site.baseurl }}">{{ site.title }}</a></h1>
+</header>
