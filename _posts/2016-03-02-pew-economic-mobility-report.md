@@ -26,7 +26,7 @@ Ado Files for [Cross Section]({{ site.url }}{{ site.baseurl}}/downloads/publicat
 #### Stata .dta/.dct and Text Files ####
 [1982 State and Metropolitan Area Databook]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/08187-0002-Data.txt)
 1981 to 1997 MSA [Concordance]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/MSA81To99Concordance.csv)
-Neighborhood Change Database [1980 extract]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/NCDB_80.csv)
-Neighborhood Change Database [1970 to 2000 extract]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/NCDB_70to00.csv) (using 1999 tracting)
+Neighborhood Change Database [1980 extract]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/NCDB_80.csv.zip)
+Neighborhood Change Database [1970 to 2000 extract]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/NCDB_70to00.csv.zip) (using 1999 tracting)
 NLSY79 [Dictionary]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/PewMobilityNLSY79.dct.zip) and [Label]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/PewMobilityNLSY79-value-labels.do) File (public release data)
 NLSY97 [Dictionary]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/PewMobilityNLSY97.dct.zip)  and [Label]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/Public_Data_Files/PewMobilityNLSY97-value-labels.do) File (public release data)
