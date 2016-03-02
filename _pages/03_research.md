@@ -58,7 +58,7 @@ _(Note: documents made available for personal study/use only)_
 <br/>
 <br/> 
 10. ["Robustness to parametric assumptions in missing data models,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AERPP_v101n3_2011/AERPP_v101n3_2011.pdf)  _American Economic Review: Papers and Proceedings_ 101 (3): 538 - 543, 2011 (w/ Keisuke Hirano)
-	* Matlab code
+	* [Matlab code]({{ site.url }}{{ site.baseurl}}/downloads/publications/AERPP_v101n3_2011/AERPP_v101n3_2011_MonteCarloCode.zip)
 <br/>
 <br/> 
 11. ["The incidental parameter problem in a non-differentiable panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconomicsLetters_v105n2_2009/BSG_EconomicsLetters_v105n2_2009.pdf) _Economics Letters_ 105 (2): 181 - 182, 2009 (w/ Jinyong Hahn and Jim Powell)
@@ -74,7 +74,7 @@ _(Note: documents made available for personal study/use only)_
 <br/>
 <br/> 
 14. ["Rich nations, poor nations: how much can multiple equilibria explain,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/BSG_JournalOfEconomicGrowth_v11n1_2006.pdf) _Journal of Economic Growth_ 11 (1): 5 - 41, 2006 (w/ Jon Temple)
- 	* [Data]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/cdata.txt)
+    * [Data]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/cdata.txt)
 	* [Mathematica code for calibration results]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/RichPoor_CalibrationCode.nb) 
 	* [Mathematica code for phase diagrams]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/RichPoor_StabilityFigures.nb) 
 <br/>
