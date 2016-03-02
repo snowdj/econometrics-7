@@ -7,26 +7,32 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 
 1. ["Methods of identification in social networks,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AnnualReviewOfEconomics_v7_2015/BSG_AnnualReview_v7_2015.pdf) _Annual Review of Economics_ 7: 465 - 485, 2015
+<br/>
 <br/> 
 2. ["Complementarity and aggregate implications of assortative matching: a nonparametric analysis,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/QuantitativeEconomics_v5n1_2014/BSG_QuantitativeEconomics_v5n1_2014.pdf) _Quantitative Economics_ 5 (1): 29 - 66, 2014 (w/ Guido W. Imbens and Geert Ridder).
 	* [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/QuantitativeEconomics_v5n1_2014/BSG_QuantitativeEconomics_v5n1_2014_Supplement.pdf)
+<br/>
 <br/> 
 3. [_Mobility and the Metropolis: How Communities Factor into Economic Mobility, A Report from the Pew Charitable Trusts._]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/PewMobilityReport_2013.pdf) Washington D.C.: The Pew Charitable Trusts, 2013 (w/ Patrick Sharkey).
 	* Pew [web page](http://www.pewtrusts.org/en/research-and-analysis/reports/0001/01/01/mobility-and-the-metropolis) for report
 	* [Additional information]({{ site.url }}{{ site.baseurl}}/mobility/2016/03/02/pew-economic-mobility-report.html)
+<br/>
 <br/> 
 4. ["Comparative static and computational methods for an 	empirical one-to-one transferable utility matching model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/BSG_AdvancesInEconometrics_v31.pdf) _Advances in Econometrics_ 31: 153 - 181, 2013.
 	* [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/SemiparametricMatching_07August2013_2ndRevisedSupplement.pdf)
 	* [Matlab code]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/EquilibriumCode Folder.zip)
 <br/>
+<br/> 
 5. ["Comment on "Social networks and the identification of peer effects" by Paul Goldsmith-Pinkham and Guido W. Imbens,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v31n3_2013/BSG_JBES_v31n3_2013.pdf) _Journal of Business and Economic Statistics_ 31 (3): 266 - 270, 2013
 <br/>
+<br/> 
 6. ["Identification and estimation of average partial effects in `irregular' correlated random coefficient panel data models,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/BSG_Econometrica_v80n5_2012.pdf)  _Econometrica_ 80 (5): 2105 - 2152, 2012 (w/ James Powell). 
     * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/BSG_Econometrica_Supplement_v80n5_2012.pdf)
 	* [Data archive]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/RPS_Data_Extract_Replication.zip) ([Readme]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/RPS_Data_Extract_Replication_README.txt))
 	* [Estimation sample]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/RPS_calorie_data.out) (comma delimited)
 	* [Matlab code archive]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/Panel_APE_MatlabCode.zip)
 <br/>
+<br/> 
 7. ["Inverse probability tilting for moment condition models with missing data,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/ReStud_v79n3_2012/BSG_ReStud_v79n3_2012.pdf)  _Review of Economic Studies_ 79 (3): 1053 - 1079, 2012 (w/ Cristine Pinto and Dan Egel) 
 	* [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/ReStud_v79n3_2012/ipt_restud_finalversion_supplemental_web_appendix.pdf)
 	* [Additional calculations]({{ site.url }}{{ site.baseurl}}/downloads/publications/ReStud_v79n3_2012/ipt_restud_finalversion_detailed_calculations.pdf)	
@@ -37,32 +43,40 @@ _(Note: documents made available for personal study/use only)_
 	* [Code for higher order Monte Carlos]({{ site.url }}{{ site.baseurl}}/downloads/publications/ReStud_v79n3_2012/Higher_Order_Monte_Carlo_Code_08May11.zip) ([Readme]({{ site.url }}{{ site.baseurl}}/downloads/publications/ReStud_v79n3_2012/Higher_Order_Monte_Carlo_README.txt))
 	* [Code for Average Treatment Effect (ATE) estimation]({{ site.url }}{{ site.baseurl}}/downloads/publications/ReStud_v79n3_2012/ATE.zip) ([Readme]({{ site.url }}{{ site.baseurl}}/downloads/publications/ReStud_v79n3_2012/ATECode_Readme.txt))
 <br/>
+<br/> 
 8. ["Econometric methods for the analysis of assignment problems in the presence of complementarity and social spillovers,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfSocialEconomics_1B_2011/BSG_HandbookOfSocialEconomics_1B_2011.pdf) _Handbook of Social Economics_ 1B: 965 - 1052 (J. Benhabib, A. Bisin, & M. Jackson, Eds.). Amsterdam: North-Holland, 2011
 	* [Last pre-publication version]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfSocialEconomics_1B_2011/BSG_HandbookOfSocialEconomics_1B_2011_FinalDraft.pdf) (typeset version has numerous typos)
 	* [Matlab code for Monte Carlo]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfSocialEconomics_1B_2011/BSG_HandbookOfSocialEconomics_1B_2011_MonteCarloCode.zip)
 	* [Mathematica code for figures]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfSocialEconomics_1B_2011/BSG_HandbookOfSocialEconomics_1B_2011_MathematicaNotebook.nb)
 	* [Errata]({{ site.url }}{{ site.baseurl}}/downloads/publications/HandbookOfSocialEconomics_1B_2011/HandbookOfSocialEconomics_1B_2011_ErrataToTheorem4p1.pdf) (correction of proof of Theorem 4.1)
 <br/>
+<br/> 
 9. ["Efficiency bounds for missing data models with semiparametric restrictions,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v79n2_2011/BSG_Econometrica_v79n2_2011.pdf) _Econometrica_ 79 (2): 437 - 452, 2011
 	* [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v79n2_2011/BSG_Econometrica_v79n2_2011_Supplement.pdf) 
 	* [Additional calculations]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v79n2_2011/BSG_Econometrica_v79n2_2001_DetailsofCalculations.pdf) 
 	* [Earlier version]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v79n2_2011/BSG_Econometrica_v79n2_2011_2007Version.pdf)  ([Appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v79n2_2011/BSG_Econometrica_v79n2_2011_Supplement_2007Version.pdf))
 <br/>
+<br/> 
 10. ["Robustness to parametric assumptions in missing data models,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AERPP_v101n3_2011/AERPP_v101n3_2011.pdf)  _American Economic Review: Papers and Proceedings_ 101 (3): 538 - 543, 2011 (w/ Keisuke Hirano)
 	* Matlab code
 <br/>
+<br/> 
 11. ["The incidental parameter problem in a non-differentiable panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconomicsLetters_v105n2_2009/BSG_EconomicsLetters_v105n2_2009.pdf) _Economics Letters_ 105 (2): 181 - 182, 2009 (w/ Jinyong Hahn and Jim Powell)
 <br/>
+<br/> 
 12. ["Identifying social interactions through conditional variance restrictions,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/BSG_Econometrica_v76_n3_May08.pdf) _Econometrica_ 76 (3): 643 - 660, 2008 
 	* [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/BSG_Econometrica_Supplement_v76_n3_May08.pdf) 
 	* Stata file [#1]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/STATA_DO_FILE_1_OF_3_WebAppendix_2_28jan08.do), [#2]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/STATA_DO_FILE_2_OF_3_WebAppendix_3_28jan08.do), [#3]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/STATA_DO_FILE_3_OF_3_WebAppendix_4_28jan08.do), [#4]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/webstar.dta); Matlab file [#1]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/CalibratedPowerComparisons.m), [#2]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/SocIntPowerCalculations.m), [#3]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/STARCLEANDATA.mat)
 	* [Dissertation version]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/ExcessVarianceContrasts_05may05.pdf) (May 2005)
 <br/>
+<br/> 
 13. ["Identification and estimation of the linear-in-means model of social interactions,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconomicsLetters_v88n1_2005/BSG_EconomicsLetters_v88n1_2005.pdf) _Economics Letters_ 88 (1): 1 - 6, 2005 (w/ Jinyong Hahn)
 <br/>
+<br/> 
 14. ["Rich nations, poor nations: how much can multiple equilibria explain,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/BSG_JournalOfEconomicGrowth_v11n1_2006.pdf) _Journal of Economic Growth_ 11 (1): 5 - 41, 2006 (w/ Jon Temple)
  	* [Data]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/cdata.txt)
 	* [Mathematica code for calibration results]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/RichPoor_CalibrationCode.nb) 
 	* [Mathematica code for phase diagrams]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/RichPoor_StabilityFigures.nb) 
 <br/>
+<br/> 
 15. ["Longevity and life-cycle savings,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/ScandinavianJournalOfEconomics_v105n3_2003/BSG_ScandinavianJournalOfEconomics_v105n3_2003.pdf) _Scandinavian Journal of Economics_ 105 (3): 319 - 338, 2003 (w/ David Bloom and David Canning)
