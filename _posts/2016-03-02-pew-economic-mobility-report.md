@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pew Economic Mobility Report"
+title:  "Pew Economic Mobility report"
 date:   2016-03-02
 categories: mobility
 ---

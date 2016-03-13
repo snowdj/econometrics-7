@@ -3,7 +3,28 @@ layout: page
 title: Research
 permalink: /research/
 ---
-### Publications 
+### Working papers
+1. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_11Mar2016_submitted.pdf) 2016 (w/ Guido W. Imbens and Geert Ridder)
+<br/>
+<br/> 
+2. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion.pdf) submitted (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
+  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion_SupplementalWebAppendix.pdf) 
+  * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
+<br/>
+<br/> 
+3. ["An econometric model of link formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_1stRevision.pdf) conditionally accepted by _Econometrica_, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) Working paper
+  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_DetailedCalculationsAppendix.pdf)
+  * MATLAB [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/LinkFormationMatlabCode.zip)
+<br/>
+<br/>
+4. ["Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/DataCombination_3rdResubmission_18Mar2015.pdf) forthcoming in the _Journal of Business and Economic Statistics_ (w/ Cristine Pinto and Daniel Egel).
+  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/DataCombination_3rdResubmission_18Mar2015_SupplementalWebAppendix.pdf)
+  * Stata [DCT]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/NLSY_BlkWhtGap.dct) and [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/NLSY_AST_Illustration_Sample.do) files, Matlab [code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/AST_MATLAB_CODE.zip), dataset ([tab delimited]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/NLSY79_Sample.out), [mat]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/NLSY_AST_Sample.mat))
+<br/>
+<br/> 
+
+### Publications
+ 
 _(Note: documents made available for personal study/use only)_
 
 1. ["Methods of identification in social networks,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AnnualReviewOfEconomics_v7_2015/BSG_AnnualReview_v7_2015.pdf) _Annual Review of Economics_ 7: 465 - 485, 2015
