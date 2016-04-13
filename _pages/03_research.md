@@ -4,6 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
+
 1. ["Homophily and transitivity in dynamic network formation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf)
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
@@ -21,11 +22,12 @@ permalink: /research/
   * MATLAB [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/LinkFormationMatlabCode.zip)
 <br/>
 <br/> 
+
 ### Publications
  
 _(Note: documents made available for personal study/use only)_
 
-1. ["Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/BSG_JBES_v34n2_2016.pdf) _Journal of Business and Economic Statistics_31 (2): 288 - 301, 2016 (w/ Cristine Pinto and Daniel Egel)
+1. ["Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/BSG_JBES_v34n2_2016.pdf) _Journal of Business and Economic Statistics_ 31 (2): 288 - 301, 2016 (w/ Cristine Pinto and Daniel Egel)
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/DataCombination_3rdResubmission_18Mar2015_SupplementalWebAppendix.pdf)
   * Stata [DCT]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_BlkWhtGap.dct) and [Do]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Illustration_Sample.do) files, Matlab [code]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/AST_MATLAB_CODE.zip), dataset ([tab delimited]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY79_Sample.out), [mat]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Sample.mat))
 <br/>
