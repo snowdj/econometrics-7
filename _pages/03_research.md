@@ -5,19 +5,19 @@ permalink: /research/
 ---
 ### Working papers
 
-1. ["Homophily and transitivity in dynamic network formation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf)
+1. ["Homophily and transitivity in dynamic network formation,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf) 2016
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
 <br/> 
-2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_11Mar2016_submitted.pdf) 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) Working Paper
+2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_11Mar2016_submitted.pdf) submitted, 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) Working Paper
 <br/>
 <br/> 
-3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion.pdf) submitted (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
+3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion.pdf) submitted, 2015 (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion_SupplementalWebAppendix.pdf) 
   * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
 <br/>
 <br/> 
-4. ["An econometric model of link formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_1stRevision.pdf) conditionally accepted by _Econometrica_, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) Working paper
+4. ["An econometric model of link formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_1stRevision.pdf) conditionally accepted by _Econometrica_, 2014, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) Working paper
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_DetailedCalculationsAppendix.pdf)
   * MATLAB [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/LinkFormationMatlabCode.zip)
 
