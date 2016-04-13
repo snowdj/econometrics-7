@@ -21,8 +21,10 @@ permalink: /research/
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_DetailedCalculationsAppendix.pdf)
   * MATLAB [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/LinkFormationMatlabCode.zip)
 <br/>
-<br/> 
+<br/>
+
 ### Publications
+
 _(Note: documents made available for personal study/use only)_
 
 1. ["Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/BSG_JBES_v34n2_2016.pdf) _Journal of Business and Economic Statistics_ 31 (2): 288 - 301, 2016 (w/ Cristine Pinto and Daniel Egel)
