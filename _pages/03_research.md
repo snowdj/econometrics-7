@@ -9,17 +9,18 @@ permalink: /research/
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
 <br/> 
-1. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_11Mar2016_submitted.pdf) 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) Working Paper
+2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_11Mar2016_submitted.pdf) 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) Working Paper
 <br/>
 <br/> 
-2. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion.pdf) submitted (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
+3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion.pdf) submitted (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion_SupplementalWebAppendix.pdf) 
   * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
 <br/>
 <br/> 
-3. ["An econometric model of link formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_1stRevision.pdf) conditionally accepted by _Econometrica_, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) Working paper
+4. ["An econometric model of link formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_1stRevision.pdf) conditionally accepted by _Econometrica_, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) Working paper
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_DetailedCalculationsAppendix.pdf)
   * MATLAB [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/LinkFormationMatlabCode.zip)
+
 <br/>
 <br/>
 
@@ -32,19 +33,19 @@ _(Note: documents made available for personal study/use only)_
   * Stata [DCT]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_BlkWhtGap.dct) and [Do]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Illustration_Sample.do) files, Matlab [code]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/AST_MATLAB_CODE.zip), dataset ([tab delimited]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY79_Sample.out), [mat]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Sample.mat))
 <br/>
 <br/>
-1. ["Methods of identification in social networks,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AnnualReviewOfEconomics_v7_2015/BSG_AnnualReview_v7_2015.pdf) _Annual Review of Economics_ 7: 465 - 485, 2015
+2. ["Methods of identification in social networks,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AnnualReviewOfEconomics_v7_2015/BSG_AnnualReview_v7_2015.pdf) _Annual Review of Economics_ 7: 465 - 485, 2015
 <br/>
 <br/> 
-2. ["Complementarity and aggregate implications of assortative matching: a nonparametric analysis,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/QuantitativeEconomics_v5n1_2014/BSG_QuantitativeEconomics_v5n1_2014.pdf) _Quantitative Economics_ 5 (1): 29 - 66, 2014 (w/ Guido W. Imbens and Geert Ridder)
+3. ["Complementarity and aggregate implications of assortative matching: a nonparametric analysis,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/QuantitativeEconomics_v5n1_2014/BSG_QuantitativeEconomics_v5n1_2014.pdf) _Quantitative Economics_ 5 (1): 29 - 66, 2014 (w/ Guido W. Imbens and Geert Ridder)
 	* [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/QuantitativeEconomics_v5n1_2014/BSG_QuantitativeEconomics_v5n1_2014_Supplement.pdf)
 <br/>
 <br/> 
-3. [_Mobility and the Metropolis: How Communities Factor into Economic Mobility, A Report from the Pew Charitable Trusts._]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/PewMobilityReport_2013.pdf) Washington D.C.: The Pew Charitable Trusts, 2013 (w/ Patrick Sharkey)
+4. [_Mobility and the Metropolis: How Communities Factor into Economic Mobility, A Report from the Pew Charitable Trusts._]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/PewMobilityReport_2013.pdf) Washington D.C.: The Pew Charitable Trusts, 2013 (w/ Patrick Sharkey)
 	* Pew [web page](http://www.pewtrusts.org/en/research-and-analysis/reports/0001/01/01/mobility-and-the-metropolis) for report
 	* [Additional information]({{ site.url }}{{ site.baseurl}}/mobility/2016/03/02/pew-economic-mobility-report.html)
 <br/>
 <br/> 
-4. ["Comparative static and computational methods for an 	empirical one-to-one transferable utility matching model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/BSG_AdvancesInEconometrics_v31.pdf) _Advances in Econometrics_ 31: 153 - 181, 2013
+5. ["Comparative static and computational methods for an 	empirical one-to-one transferable utility matching model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/BSG_AdvancesInEconometrics_v31.pdf) _Advances in Econometrics_ 31: 153 - 181, 2013
 	* [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/SemiparametricMatching_07August2013_2ndRevisedSupplement.pdf)
 	* [Matlab code]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/EquilibriumCode Folder.zip)
 <br/>
