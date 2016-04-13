@@ -4,7 +4,11 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-1. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_11Mar2016_submitted.pdf) 2016 (w/ Guido W. Imbens and Geert Ridder)
+1. ["Homophily and transitivity in dynamic network formation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf)
+  * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
+<br/>
+<br/> 
+1. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_11Mar2016_submitted.pdf) 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) Working Paper
 <br/>
 <br/> 
 2. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion.pdf) submitted (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
@@ -16,30 +20,29 @@ permalink: /research/
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_DetailedCalculationsAppendix.pdf)
   * MATLAB [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/LinkFormationMatlabCode.zip)
 <br/>
-<br/>
-4. ["Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/DataCombination_3rdResubmission_18Mar2015.pdf) forthcoming in the _Journal of Business and Economic Statistics_ (w/ Cristine Pinto and Daniel Egel).
-  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/DataCombination_3rdResubmission_18Mar2015_SupplementalWebAppendix.pdf)
-  * Stata [DCT]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/NLSY_BlkWhtGap.dct) and [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/NLSY_AST_Illustration_Sample.do) files, Matlab [code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/AST_MATLAB_CODE.zip), dataset ([tab delimited]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/NLSY79_Sample.out), [mat]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AST/NLSY_AST_Sample.mat))
-<br/>
 <br/> 
-
 ### Publications
  
 _(Note: documents made available for personal study/use only)_
 
+1. ["Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/BSG_JBES_v34n2_2016.pdf) _Journal of Business and Economic Statistics_31 (2): 288 - 301, 2016 (w/ Cristine Pinto and Daniel Egel)
+  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/DataCombination_3rdResubmission_18Mar2015_SupplementalWebAppendix.pdf)
+  * Stata [DCT]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_BlkWhtGap.dct) and [Do]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Illustration_Sample.do) files, Matlab [code]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/AST_MATLAB_CODE.zip), dataset ([tab delimited]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY79_Sample.out), [mat]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Sample.mat))
+<br/>
+<br/>
 1. ["Methods of identification in social networks,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AnnualReviewOfEconomics_v7_2015/BSG_AnnualReview_v7_2015.pdf) _Annual Review of Economics_ 7: 465 - 485, 2015
 <br/>
 <br/> 
-2. ["Complementarity and aggregate implications of assortative matching: a nonparametric analysis,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/QuantitativeEconomics_v5n1_2014/BSG_QuantitativeEconomics_v5n1_2014.pdf) _Quantitative Economics_ 5 (1): 29 - 66, 2014 (w/ Guido W. Imbens and Geert Ridder).
+2. ["Complementarity and aggregate implications of assortative matching: a nonparametric analysis,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/QuantitativeEconomics_v5n1_2014/BSG_QuantitativeEconomics_v5n1_2014.pdf) _Quantitative Economics_ 5 (1): 29 - 66, 2014 (w/ Guido W. Imbens and Geert Ridder)
 	* [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/QuantitativeEconomics_v5n1_2014/BSG_QuantitativeEconomics_v5n1_2014_Supplement.pdf)
 <br/>
 <br/> 
-3. [_Mobility and the Metropolis: How Communities Factor into Economic Mobility, A Report from the Pew Charitable Trusts._]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/PewMobilityReport_2013.pdf) Washington D.C.: The Pew Charitable Trusts, 2013 (w/ Patrick Sharkey).
+3. [_Mobility and the Metropolis: How Communities Factor into Economic Mobility, A Report from the Pew Charitable Trusts._]({{ site.url }}{{ site.baseurl}}/downloads/publications/PewMobilityReport_2013/PewMobilityReport_2013.pdf) Washington D.C.: The Pew Charitable Trusts, 2013 (w/ Patrick Sharkey)
 	* Pew [web page](http://www.pewtrusts.org/en/research-and-analysis/reports/0001/01/01/mobility-and-the-metropolis) for report
 	* [Additional information]({{ site.url }}{{ site.baseurl}}/mobility/2016/03/02/pew-economic-mobility-report.html)
 <br/>
 <br/> 
-4. ["Comparative static and computational methods for an 	empirical one-to-one transferable utility matching model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/BSG_AdvancesInEconometrics_v31.pdf) _Advances in Econometrics_ 31: 153 - 181, 2013.
+4. ["Comparative static and computational methods for an 	empirical one-to-one transferable utility matching model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/BSG_AdvancesInEconometrics_v31.pdf) _Advances in Econometrics_ 31: 153 - 181, 2013
 	* [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/SemiparametricMatching_07August2013_2ndRevisedSupplement.pdf)
 	* [Matlab code]({{ site.url }}{{ site.baseurl}}/downloads/publications/AdvancesInEconometrics_v31_2013/EquilibriumCode Folder.zip)
 <br/>
@@ -47,7 +50,7 @@ _(Note: documents made available for personal study/use only)_
 5. ["Comment on "Social networks and the identification of peer effects" by Paul Goldsmith-Pinkham and Guido W. Imbens,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v31n3_2013/BSG_JBES_v31n3_2013.pdf) _Journal of Business and Economic Statistics_ 31 (3): 266 - 270, 2013
 <br/>
 <br/> 
-6. ["Identification and estimation of average partial effects in `irregular' correlated random coefficient panel data models,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/BSG_Econometrica_v80n5_2012.pdf)  _Econometrica_ 80 (5): 2105 - 2152, 2012 (w/ James Powell). 
+6. ["Identification and estimation of average partial effects in `irregular' correlated random coefficient panel data models,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/BSG_Econometrica_v80n5_2012.pdf)  _Econometrica_ 80 (5): 2105 - 2152, 2012 (w/ James Powell) 
     * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/BSG_Econometrica_Supplement_v80n5_2012.pdf)
 	* [Data archive]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/RPS_Data_Extract_Replication.zip) ([Readme]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/RPS_Data_Extract_Replication_README.txt))
 	* [Estimation sample]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v80n5_2012/RPS_calorie_data.out) (comma delimited)
