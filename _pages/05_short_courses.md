@@ -5,7 +5,7 @@ permalink: /short_courses/
 ---
 Occassionally I teach short courses on econometric methods for the analysis of spillovers and network data. I have also taught standard microeconometric topics, including covariate adjustment, program evaluation and panel data. Courses typically emphasize both theory and practical computation.
 
-My next course will be at the [University of St. Gallen](http://www.unisg.ch/) in the September. Selected materials from some of my past courses are available below.
+My next course will be in a few weeks at [Zamorano](https://www.zamorano.edu/) on June 3rd and 4th. Zamorano has kindly hosted me during my sabbatical this semester. This course will provide an introduction to program evaluation methods. I will also be teaching a week-long intensive course on social and economic network analysis at the [University of St. Gallen](http://www.unisg.ch/) in the September. Selected materials from some of my past courses are available below.
 
 ### CEMFI Summer School Course on "Empirical methods for program evaluation and networks"
 [CEMFI](http://www.cemfi.es/), Madrid August 24th to 28th, 2015
