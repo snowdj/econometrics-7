@@ -38,7 +38,7 @@ While I would like to make a Stata and R implementations of our estimators avail
 
 The Python package is called **ipt** for "inverse probability tilting". Currently it only includes a implementation of our ATT estimator, although I intend to incorporate an ATE estimator into the package in the future. This package is registered on [PyPi](https://pypi.python.org/pypi/ipt/0.2.1). The source code is available at [this](https://github.com/bryangraham/ipt) GitHub repository. The **ipt** package has the following dependencies: numpy, numpy.linalg, scipy, scipy.optimize and scipy.stats. These are standard libraries and are included in most scientific Python distributions. For example they are included in the highly recommended [Anaconda distribution of Python](https://www.continuum.io/downloads). If you are using the [Anaconda distribution of Python](https://www.continuum.io/downloads), then you can follow the (straightforward but tedious) instructions [here](http://conda.pydata.org/docs/build_tutorials/pkgs.html) to learn how install the **ipt** package from PyPi and make it available in Anaconda using the "conda" package manager. For users who anticipate only infrequent use, permanent installation of the **ipt** package may not be worth the trouble. One possibility is to just clone (ie., copy) the [GitHub repository](https://github.com/bryangraham/ipt), which contains the latest version of **ipt**. Then append the path pointing to the location of the ipt package (on your local machine) to your sys directory. This is what is done in the snippet of code below.
 
-For example if you download the repository into a directory called "ipt" on your local machine and navigate there you should observe the following basic structure
+For example if you download the repository into a directory called "ipt" on your local machine and navigate there, you should observe the following basic structure
 
 {% highlight plain-text %}
 README.txt
@@ -50,7 +50,7 @@ ipt/logit.py
 ipt/att.py
 {% endhighlight %}
 
-To use the package to estimate of ATT using the NSW evaluate dataset used by Dehejia and Wahba (1999, _Journal of the American Statistical Association_) you can then run the following code snippet:
+To use the package to estimate the ATT using the NSW evaluation dataset used by Dehejia and Wahba (1999, _Journal of the American Statistical Association_) you can then run the following code snippet:
 
 {% highlight python %}
 # Append location of ipt module root directory to systems path
