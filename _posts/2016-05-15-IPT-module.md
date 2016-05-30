@@ -36,9 +36,9 @@ While we wrote and made available a fair amount of code in connection with our t
 
 While I would like to make a Stata and R implementations of our estimators available, I decided to first prepare a Python 2.7 implementation. I like Python a lot. It is widely-used in the Data Science and Machine Learning communities. While senior researchers in statistics and econometrics may be less familiar with Python, chances are their students are very familiar with it. Python is probably the most common language used to teach introductory computer science. At Berkeley Python is also used to teach our general education [Foundations of Data Science](https://data-8.appspot.com/sp16/) course.
 
-The Python package is called **ipt** for "inverse probability tilting". Currently it only includes a implementation of our ATT estimator, although I intend to incorporate an ATE estimator into the package in the future. This package is registered on [PyPi](https://pypi.python.org/pypi/ipt/0.2.1). The source code is available at [this](https://github.com/bryangraham/ipt) GitHub repository. The **ipt** package has the following dependencies: numpy, numpy.linalg, scipy, scipy.optimize and scipy.stats. These are standard libraries and are included in most scientific Python distributions. For example they are included in the highly recommended [Anaconda distribution of Python](https://www.continuum.io/downloads). If you are using the [Anaconda distribution of Python](https://www.continuum.io/downloads), then you can follow the (straightforward but tedious) instructions [here](http://conda.pydata.org/docs/build_tutorials/pkgs.html) to learn how install the **ipt** package from PyPi and make it available in Anaconda using the "conda" package manager. For users who anticipate only infrequent use, permanent installation of the **ipt** package may not be worth the trouble. One possibility is to just clone (ie., copy) the [GitHub repository](https://github.com/bryangraham/ipt), which contains the latest version of **ipt**. Then append the path pointing to the location of the ipt package (on your local machine) to your sys directory. This is what is done in the snippet of code below.
+The Python package is called **ipt** for "inverse probability tilting". Currently it only includes a implementation of our ATT estimator, although I intend to incorporate an ATE estimator into the package in the future. This package is registered on [PyPi](https://pypi.python.org/pypi/ipt/0.2.2). The source code is available at [this](https://github.com/bryangraham/ipt) GitHub repository. The **ipt** package has the following dependencies: numpy, numpy.linalg, scipy, scipy.optimize and scipy.stats. These are standard libraries and are included in most scientific Python distributions. For example they are included in the highly recommended [Anaconda distribution of Python](https://www.continuum.io/downloads). If you are using the [Anaconda distribution of Python](https://www.continuum.io/downloads), then you can follow the (straightforward but tedious) instructions [here](http://conda.pydata.org/docs/build_tutorials/pkgs.html) to learn how install the **ipt** package from PyPi and make it available in Anaconda using the "conda" package manager. For users who anticipate only infrequent use, permanent installation of the **ipt** package may not be worth the trouble. One possibility is to just clone (ie., copy) the [GitHub repository](https://github.com/bryangraham/ipt), which contains the latest version of **ipt**. Then append the path pointing to the location of the ipt package (on your local machine) to your sys directory. This is what is done in the snippet of code below.
 
-For example if you download the repository into a directory called "ipt" on your local machine and navigate there, you should observe the following basic structure
+For example if you download the repository into a directory called "ipt" on your local machine and navigate there, you should observe the following basic structure (perhaps with more .py files in the ipt/ folder as additional functionality is added to the module over time)
 
 {% highlight plain-text %}
 README.txt
@@ -54,12 +54,15 @@ To use the package to estimate the ATT using the NSW evaluation dataset used by 
 
 {% highlight python %}
 # Append location of ipt module root directory to systems path
-# NOTE: Only required ipt not "permanently" installed via "pip", "conda" etc.
+# NOTE: Only required if ipt module not "permanently" installed via "pip", "conda" etc.
 import sys
 sys.path.append('/Users/bgraham/Dropbox/Sites/software/ipt/')
 
 # Load ipt package
 import ipt as ipt
+
+# Read help file for ipt.att()
+help(ipt.att)
 
 # Read nsw data directly from Rajeev Dehejia's webpage into a
 # Pandas dataframe
@@ -68,45 +71,34 @@ import pandas as pd
 
 nsw=pd.read_stata("http://www.nber.org/~rdehejia/data/nsw_dw.dta")
 
-# Extract treatment indicator
+# Make some adjustments to variable definitions in experimental dataframe
+nsw['constant'] = 1                # Add constant to observational dataframe
+nsw['age']      = nsw['age']/10    # Rescale age to be in decades
+nsw['re74']     = nsw['re74']/1000 # Recale earnings to be in thousands
+nsw['re75']     = nsw['re75']/1000 # Recale earnings to be in thousands
+
+# Treatment indicator
 D = nsw['treat']
-N = len(D)
-D = np.array(D).reshape(N,1)
 
 # Balancing moments
-t_W = nsw[['re74','re75']]/1000
-t_W['re74_sq']     = t_W['re74']**2
-t_W['re75_sq']     = t_W['re75']**2
-t_W['re74_X_re75'] = t_W['re74']*t_W['re75']
-t_W['age']         = nsw['age']/10
-t_W['education']   = nsw['education']
-t_W['black']       = nsw['black']
-t_W['hispanic']    = nsw['hispanic']
-t_W                = np.concatenate((np.ones((N,1)), t_W), axis=1)
+t_W = nsw[['constant','black','hispanic','education','age','re74','re75']]
 
 # Propensity score variables
-# NOTE: Propensity score assumed constant, consistent with RCT structure of the NSW evaluation
-r_W = np.ones((N,1))
+r_W = nsw[['constant']]
 
 # Outcome
 Y = nsw['re78']
-Y = np.array(Y).reshape(N,1)
 
-# Variable names
-ps_names  = ['constant']
-tlt_names = ['constant','earnings 1974','earnings 1975','earnings sq 1974','earnings sq 1975','earnings 74 x 75',\
-             'age', 'education', 'black', 'hispanic']
-
-# Read help file for ipt.att()
-help(ipt.att)
-
-# Compute AST estimate of ATT using ipt.att()
+# Compute AST estimate of ATT
 [gamma_as, vcov_gamma_ast, study_test, auxiliary_test, pi_eff_nsw, pi_s_nsw, pi_a_nsw, exitflag] = \
-            ipt.att(D, Y, r_W, t_W, study_tilt=True, rlgrz=0.75, NG=None,s_wgt=1, silent=False, \
-                    r_W_names=ps_names, t_W_names=tlt_names)
+                                                                ipt.att(D, Y, r_W, t_W, study_tilt=True)
 {% endhighlight %}
 
 The **ipt.att()** command will spit out lots of useful and interesting diagnostic output (set silent=True to suppress this). For a reasonably well-narrated guided tour of the ipt.att() command see this iPython [Notebook](https://github.com/bryangraham/ipt/blob/master/Notebooks/Tilting_Estimates_of_ATT.ipynb) on GitHub.	
 
 While I would appreciate bug reports, suggestions for improvements and so on, I am unable to provide any meaningful user-support for the package. When I manage to code up the ATE estimator (or any additional features) I'll post an update on this blog.
+
+_This posted was lightly edited on 5/29/16 to reflect a few
+bug fixes and initial module improvements._
+
 
