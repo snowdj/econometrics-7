@@ -1,0 +1,263 @@
+/* Style sheet settings for screen version of CV */
+
+@media screen {
+
+	body {
+		color: #3B7EA1;									/* Founder's Rock */
+		font: normal normal 400;
+		font-size: 80%;
+		line-height: 1.5em;
+		font-family: Verdana,sans-serif;
+		margin-top: 1em;
+		margin-left: 1em;
+		text-align: justify;
+	}
+
+	p {
+		color: #3B7EA1;
+		position: relative;
+		left: 33%;
+		margin-bottom: 0.7em;
+		margin-right: 0;
+		width: 65%;
+		text-align: justify;
+	}
+
+	code {
+		font: normal normal;
+		font-size: 80%;
+		font-family: Menlo,monospace,sans-serif;
+		color:  #C4820E;								/* Web Medalist */
+	}
+
+	p code {
+		position: absolute;
+		left: -14%;
+		color: #C4820E;
+	}
+
+
+	ul { 
+		position: relative;
+		left: 33%;
+		width: 65%;
+		margin-bottom: 1.5em;
+		margin-top: -0.5em;
+		text-align: justify;
+		color: #3B7EA1;	
+	}
+
+
+	li {
+		/*second line indent*/
+		padding-left: 1.25em;
+		text-indent: -1.25em;
+		text-align: justify;
+		color: #3B7EA1;	
+	}
+
+	li ul {
+		position: relative;
+		left: 0;
+		width: 100%;
+		margin-top: 0.25em;
+		text-align: justify;
+		color: #3B7EA1;	
+	}
+
+
+	h1,h2,h3,h4 {
+		font-weight: 800;
+		font-family: Cousine,Verdana,sans-serif;
+		width: 65%;
+		color: #3B7EA1;
+	}
+
+	h1 {
+		position: relative;
+		color: #003262;									/* Berkeley Blue */
+		text-align: left;
+		font-size: 3em;
+		line-height: 1em;
+		left: 33%
+	}
+
+	h1+p { 
+		/*subtitle*/
+		font-style: italic;
+		font-size: 110%;
+	}
+
+	h2 {
+		font-size: 1.1em;
+		color: #3B7EA1;
+		margin-top: 3em;
+		position: relative;
+		top: 1.4em;
+		text-align: right;
+		width: 20%;
+	}
+
+	h3 {
+		font-style: italic;
+		font-size: 1em;
+		line-height: 1em; 
+		position: relative;
+		top: 1.7em;
+		text-align: right;
+		width: 20%;
+	}
+
+	a {
+		color: #C4820E;
+		/*text-decoration:none*/
+	}
+
+	a:hover {
+		color: #ED4E33									/* Golden Gate */
+	}
+
+
+	em {
+		font-style: italic;
+	}
+
+	strong {
+		font-weight: 800;
+		color: #3B7EA1;
+	}
+
+}
+
+/* Style sheet settings for print version of CV */
+
+@media print {
+
+	body {
+		color: #3B7EA1;									/* Founder's Rock */
+		font: normal normal 400;
+		font-size: 10pt;
+		line-height: 1.35em;
+		font-family: New Century Schoolbook;
+		text-align: justify;
+		
+	}
+	
+	p {
+		color: #3B7EA1;
+		position: relative;
+		left: 25%;
+		margin-bottom: 0.2em;
+		margin-right: 0;
+		width: 70%;
+		text-align: justify;
+	}
+
+	code {
+		position: relative;
+		left: -25%;
+		font: normal normal;
+		font-size: 8pt;
+		font-family: Menlo,monospace,sans-serif;
+		color:  #C4820E;								/* Web Medalist */
+	}
+
+	p code {
+		position: absolute;
+		left: -25%;
+		color: #C4820E;
+	}
+
+
+	ul { 
+		color: #3B7EA1;	
+		position: relative;
+		left: 28%;
+		width: 65%;
+		margin-bottom: 1em;
+		text-align: justify;
+	}
+
+	li {
+		/*second line indent*/
+		padding-left: 1.25em;
+		text-indent: -1.25em;
+		text-align: justify;
+		color: #3B7EA1;	
+	}
+
+	li ul {
+		position: relative;
+		left: 0;
+		width: 100%;
+		margin-top: 0.25em;
+		text-align: justify;
+		color: #3B7EA1;	
+	}
+
+	h1,h2,h3,h4 {
+		font-weight: 800;
+		font-family: New Century Schoolbook;
+		width: 65%;
+		color: #3B7EA1;
+		page-break-after: avoid;	
+	}
+
+	h1 {
+		text-align: left;
+		font-size: 14pt;
+		line-height: 1em;
+		position: relative;
+		left: 25%;
+		color: #003262;	
+	}
+
+	h1+p { 
+		/*subtitle*/
+		font-style: italic;
+		font-size: 110%;
+	}
+
+	h2 {
+		font-size: 1.1em;
+		margin-top: 2em;
+		position: relative;
+		top: 1.2em;
+		text-align: right;
+		width: 18%;
+	}
+
+	h2+p {
+		margin-top: 2.5em;
+	}
+
+	h3 {
+		font-size: 1.1em;
+		font-style: italic;
+		line-height: 2em; 
+		position: relative;
+		left: 25%;
+		top: 1.6em;
+		text-align: left;
+	}
+
+	a {
+		color: #C4820E;
+		text-decoration:none
+	}
+
+	a:hover {
+		color:#ED4E33
+	}
+
+
+	em {
+		font-style: italic;
+	}
+
+	strong {
+		font-weight: 800;
+		color: #3B7EA1;
+	}
+
+}
