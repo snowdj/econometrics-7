@@ -16,10 +16,10 @@
 	p {
 		color: #3B7EA1;
 		position: relative;
-		left: 33%;
+		left: 40%;
 		margin-bottom: 0.7em;
 		margin-right: 0;
-		width: 65%;
+		width: 59%;
 		text-align: justify;
 	}
 
@@ -27,7 +27,7 @@
 		font: normal normal;
 		font-size: 80%;
 		font-family: Menlo,monospace,sans-serif;
-		color:  #C4820E;								/* Web Medalist */
+		color: #C4820E;								   /* Web Medalist */
 	}
 
 	p code {
