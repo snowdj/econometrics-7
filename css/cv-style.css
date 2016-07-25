@@ -16,10 +16,10 @@
 	p {
 		color: #3B7EA1;
 		position: relative;
-		left: 40%;
+		left: 33%;
 		margin-bottom: 0.7em;
 		margin-right: 0;
-		width: 59%;
+		width: 65%;
 		text-align: justify;
 	}
 
@@ -31,8 +31,8 @@
 	}
 
 	p code {
-		position: absolute;
-		left: -25%;
+		position: relative;
+		left: -20%;
 		color: #C4820E;
 	}
 
