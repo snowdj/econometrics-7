@@ -31,7 +31,7 @@
 	}
 
 	p code {
-		position: relative;
+		position: absolute;
 		left: -20%;
 		color: #C4820E;
 	}
