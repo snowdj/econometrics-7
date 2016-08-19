@@ -9,7 +9,7 @@ permalink: /research/
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
 <br/> 
-2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_11Mar2016_submitted.pdf) submitted, 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
+2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_19Aug2016_submitted.pdf) submitted, 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
 <br/>
 <br/> 
 3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) resubmitted, 2016 (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
