@@ -12,8 +12,8 @@ permalink: /research/
 2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_11Mar2016_submitted.pdf) submitted, 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
 <br/>
 <br/> 
-3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion.pdf) submitted, 2015 (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
-  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_September2015_SubmittedVersion_SupplementalWebAppendix.pdf) 
+3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) resubmitted, 2016 (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
+  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision_SupplementalWebAppendix.pdf) 
   * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
 <br/>
 <br/> 
@@ -28,6 +28,9 @@ permalink: /research/
 
 _(Note: documents made available for personal study/use only)_
 
+1. ["Identifying and estimating neighborhood effects,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicLiterature/JEL_SocIntSurvey_18Aug2016_final.pdf) accepted by the _Journal of Economic Literature_
+<br/>
+<br/>
 1. ["Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/BSG_JBES_v34n2_2016.pdf) _Journal of Business and Economic Statistics_ 31 (2): 288 - 301, 2016 (w/ Cristine Pinto and Daniel Egel)
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/DataCombination_3rdResubmission_18Mar2015_SupplementalWebAppendix.pdf)
   * Stata [DCT]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_BlkWhtGap.dct) and [Do]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Illustration_Sample.do) files, Matlab [code]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/AST_MATLAB_CODE.zip), dataset ([tab delimited]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY79_Sample.out), [mat]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Sample.mat))
