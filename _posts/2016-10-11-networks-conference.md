@@ -37,7 +37,7 @@ _Friday, November 4th, 2016_
 | 6:45PM | | Speakers' dinner[^fn-speakers_dinner] at Soi 4 5421 College Avenue, Oakland, CA 94618 |
 {:.mbtablestyle}
 
-[^fn-speakers_dinner]: Unfortunately, due to very tight physical space constraints at the venue, the dinner is by invitation only. Soi 4 is a pleasant 2.5 mile walk from campus through the Elwood and Rockridge neighborhoods. Directions can be found [here](https://goo.gl/maps/vcEaZ47B3cE2). For those not wishing to walk to is a short Taxi/Uber ride away.
+[^fn-speakers_dinner]: Unfortunately, due to very tight physical space constraints at the venue, the dinner is by invitation only. Soi 4 is a pleasant 2.5 mile walk from campus through the Elwood and Rockridge neighborhoods. Directions can be found [here](https://goo.gl/maps/vcEaZ47B3cE2). For those not wishing to walk, it is just a short Taxi/Uber ride away.
 
 _Saturday, November 5th, 2016_
 
