@@ -16,3 +16,11 @@ $header: #003262;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
+.mbtablestyle {
+        border-collapse: collapse;
+
+   > table, td, th {
+        border: 1px solid black;
+        }
+}
