@@ -5,12 +5,18 @@ permalink: /courses/
 ---
 Occassionally I teach short courses on econometric methods for the analysis of spillovers and network data. I have also taught standard microeconometric topics, including covariate adjustment, program evaluation and panel data. Courses typically emphasize both theory and practical computation.
 
-My next course will be a week-long intensive course on social and economic network analysis at the [University of St. Gallen](http://www.unisg.ch/) in the September. I will also teach a two day introductory course on Program Evaluation at the Panamerican Agricultural University, or ["Zamorano"](https://www.zamorano.edu/) in late November.
+My next course will a two day introductory course on Program Evaluation at the Panamerican Agricultural University, or ["Zamorano"](https://www.zamorano.edu/) in late November. I will also teach a 2-3 day course at [CORE](http://www.uclouvain.be/en-core.html) in Belgium in early December.
 
 Selected materials from some of my past courses are available below.
 
+### St. Galen Ph.D. Course on "Econometric methods for social spillovers and networks"
+[University of St. Gallen](http://www.sew.unisg.ch/en), St. Gallen, September 26th to October 3rd, 2016
+
+* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/Syllabus/Syllabus_St_Gallen_Networks_Sept2016.pdf)
+* GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/St_Gallen) of course materials (includes lecture notes, computer code and datasets)
+
 ### CEMFI Summer School Course on "Empirical methods for program evaluation and networks"
-[CEMFI](http://www.cemfi.es/), Madrid August 24th to 28th, 2015
+[CEMFI](http://www.cemfi.es/), Madrid, August 24th to 28th, 2015
 
 * [Syllabus]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Syllabus_CEMFI_SS_August2015.pdf)
 * [Lecture 1: Covariate Adjustment]({{ site.url }}{{ site.baseurl}}/downloads/short_courses/cemfi_2015/Lecture_1_Covariate_Adjustment.pdf)
