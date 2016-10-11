@@ -1,4 +1,11 @@
-# Berkeley/CeMMAP Conference on Networks
+---
+layout: post
+title:  "Berkeley/CeMMAP Conference on Networks"
+date:   2016-10-11
+categories: Matching
+use_math: true
+---
+
 We are very excited to welcome conference attendees to Berkeley on November 4th and 5th. A _preliminary_ conference program can be found below. Please contact [Bryan Graham](bgraham@econ.berkeley.edu) with any corrections or possible scheduling conflicts. If we have forgetten someone please let us know and we will do our best to make adjustments.
 
 We've got a great group of speakers, from the statistics, econometrics and machine learning communities, scheduled.
