@@ -44,7 +44,7 @@ If you have any logistical questions please write [Eric Auerbach](eric.auerbach@
 
 [^fn-speakers_dinner]: Unfortunately, due to very tight physical space constraints at the venue, the dinner is by invitation only. Soi 4 is a pleasant 2.5 mile walk from campus through the Elwood and Rockridge neighborhoods. Directions can be found [here](https://goo.gl/maps/vcEaZ47B3cE2). For those not wishing to walk, it is just a short Taxi/Uber ride away.
 
-_Saturday, November 5th, 2016_
+**Saturday, November 5th, 2016**
 
 | _Time_              | _Speaker_         | _Title_               |
 | :----------------| :--------------- | :--------------- |
@@ -59,6 +59,6 @@ _Saturday, November 5th, 2016_
 | 12:00 to 12:40PM | Ivan Fernandez-Val (BU) | _Panel Quantile Effects Via Distribution Regression_ (joint with Victor Chernozhukov, MIT, and Martin Weidner, UCL) |
 | 12:40 to 2:00PM  | | Lunch |
 |  |  | **Session 6: High dimensional models**  |  
-| 2:00 to 2:40PM | Roger Moon (USC) | _Estimation of High-Dimensional Graphical Models with Shape Restriction_ |
+| 2:00 to 2:40PM | Roger Moon (USC) | _Estimation of High-Dimensional Graphical Models with Shape Restriction_ (joint with Khai Xiang Chiong, USC Dornsife INET) |
 | 2:40 to 3:20PM | Martin Weidner (UCL) | _Fixed-Effect Regressions on Network Data_ (joint with Koen Jochmans, Sciences Po) |
 {:.mbtablestyle}
