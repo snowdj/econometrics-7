@@ -17,7 +17,12 @@ If you have any logistical questions please write [Eric Auerbach](eric.auerbach@
 **IMPORTANT:** We have allocated 40 minutes for each talk. Please anticipate questions from the audience when planning your talk. You are very welcome to use _less_ than forty minutes and decidely not welcome to use _more_!
 
 ## Provisional Schedule
-_Friday, November 4th, 2016_
+**Organizers**    
+[_Aureo de Paula_](a.paula@ucl.ac.uk)    
+[_Bryan Graham_](bgraham@econ.berkeley.edu)    
+[_Jasjeet Sekhon_](sekhon@berkeley.edu)    
+
+**Friday, November 4th, 2016**
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
@@ -26,9 +31,9 @@ _Friday, November 4th, 2016_
 | 12:30 to 1:10PM | Peter Bickel (Berkeley) | _Block Models with Covariates: Likelihood Methods of Fitting_ (joint with Purna Sarkar, U.T. Austin, Soumendu Mukherjee, Berkeley, and Sharmodeep Bhattacharyya, Oregon State) |
 | 1:10 to 1:50PM | Stephane Bonhomme (Chicago) | _Discretizing Unobserved Heterogeneity_ (joint Thibaut Lamadon, Chicago, and Elena Manresa, NYU) |
 | 1:50 to 2:10PM  | | Coffee Break  |
-|  |  | **Session 2: TBA** |       
-| 2:10 to 2:50PM | Angelo Mele (Hopkins) | _TBA_ |
-| 2:50 to 3:30PM | Peter Hoff (Duke) | _TBA_ |
+|  |  | **Session 2: Dynamic models** |       
+| 2:10 to 2:50PM | Angelo Mele (Hopkins) | _Variational Approximations for Large Strategic ERGMs_ |
+| 2:50 to 3:30PM | Peter Hoff (Duke) | _Tensor Regression for Dynamic Network Data_ |
 | 3:30 to 3:50PM  | | Coffee Break  |
 |  |  | **Session 3: Experiments & Spillovers** |     
 | 3:50 to 4:30PM | Edoardo M. Airoldi (Harvard) | _Two Model-Assisted Strategies for Designing Experiments on Networks_ |
