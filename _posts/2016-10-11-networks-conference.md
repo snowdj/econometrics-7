@@ -29,7 +29,7 @@ If you have any logistical questions please write [Eric Auerbach](eric.auerbach@
 | 11:40 to 12:30PM | | Registration & Lunch |
 |  |  | **Session 1: Block models & Heterogeneity** |                        
 | 12:30 to 1:10PM | Peter Bickel (Berkeley) | _Block Models with Covariates: Likelihood Methods of Fitting_ (joint with Purna Sarkar, U.T. Austin, Soumendu Mukherjee, Berkeley, and Sharmodeep Bhattacharyya, Oregon State) |
-| 1:10 to 1:50PM | Stephane Bonhomme (Chicago) | _Discretizing Unobserved Heterogeneity_ (joint Thibaut Lamadon, Chicago, and Elena Manresa, NYU) |
+| 1:10 to 1:50PM | Stephane Bonhomme (Chicago) | _Discretizing Unobserved Heterogeneity_ (joint with Thibaut Lamadon, Chicago, and Elena Manresa, NYU) |
 | 1:50 to 2:10PM  | | Coffee Break  |
 |  |  | **Session 2: Dynamic models** |       
 | 2:10 to 2:50PM | Angelo Mele (Hopkins) | _Variational Approximations for Large Strategic ERGMs_ |
@@ -38,7 +38,7 @@ If you have any logistical questions please write [Eric Auerbach](eric.auerbach@
 |  |  | **Session 3: Experiments & Spillovers** |     
 | 3:50 to 4:30PM | Edoardo M. Airoldi (Harvard) | _Two Model-Assisted Strategies for Designing Experiments on Networks_ |
 | 4:30 to 5:10PM | Dean Eckles (MIT) | _Estimating Peer Effects in Social Networks with Peer Encouragement Designs_ |
-| 5:10 to 5:50PM | Chris Rose (Toulouse) | _Social Effects when the Network is Unobserved and Sparse_ |
+| 5:10 to 5:50PM | Chris Rose (Toulouse) | _Social Effects when the Network is Unobserved and Sparse_ (joint with Eric Gautier (Toulouse)|
 | 6:45PM | | Speakers' dinner[^fn-speakers_dinner] at Soi 4 5421 College Avenue, Oakland, CA 94618 |
 {:.mbtablestyle}
 
