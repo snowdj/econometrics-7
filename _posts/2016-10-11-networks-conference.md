@@ -55,7 +55,7 @@ If you have any logistical questions please write [Eric Auerbach](eric.auerbach@
 | 10:20 to 11:00AM | Geert Ridder (USC) | _Estimation of Large Network Formation Games_ (joint with Shuyang Sheng, UCLA) |
 | 11:00 to 11:20AM | | Coffee Break |
 |  |  | **Session 5: Link formation with Heterogeneity**  |  
-| 11:20 to 12:00PM | Andreas Dzemski (Gothenberg) | _An Empirical Model of Dyadic Link Formation in a Network with Unobserved Heterogeneity_ |
+| 11:20 to 12:00PM | Andreas Dzemski (Gothenburg) | _An Empirical Model of Dyadic Link Formation in a Network with Unobserved Heterogeneity_ |
 | 12:00 to 12:40PM | Ivan Fernandez-Val (BU) | _Panel Quantile Effects Via Distribution Regression_ (joint with Victor Chernozhukov, MIT, and Martin Weidner, UCL) |
 | 12:40 to 2:00PM  | | Lunch |
 |  |  | **Session 6: High dimensional models**  |  
