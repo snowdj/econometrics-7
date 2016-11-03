@@ -37,8 +37,8 @@ If you have any logistical questions please write [Eric Auerbach](eric.auerbach@
 | 3:30 to 3:50PM  | | Coffee Break  |
 |  |  | **Session 3: Experiments & Spillovers** |     
 | 3:50 to 4:30PM | Edoardo M. Airoldi (Harvard) | _Two Model-Assisted Strategies for Designing Experiments on Networks_ |
-| 4:30 to 5:10PM | Dean Eckles (MIT) | _Estimating Peer Effects in Social Networks with Peer Encouragement Designs_ |
-| 5:10 to 5:50PM | Chris Rose (Toulouse) | _Social Effects when the Network is Unobserved and Sparse_ (joint with Eric Gautier (Toulouse)|
+| 4:30 to 5:10PM | Dean Eckles (MIT) | _Estimating Peer Effects in Social Networks with Peer Encouragement Designs_ (joint with René Kizilcec, Stanford, and Eytan Bakshy, Facebook |
+| 5:10 to 5:50PM | Chris Rose (Toulouse) | _Social Effects when the Network is Unobserved and Sparse_ (joint with Eric Gautier, Toulouse)|
 | 6:45PM | | Speakers' dinner[^fn-speakers_dinner] at Soi 4 5421 College Avenue, Oakland, CA 94618 |
 {:.mbtablestyle}
 
