@@ -8,7 +8,7 @@ Occassionally I teach short courses on econometric methods for the analysis of s
 Selected materials from some of my past courses are available below.
 
 ### Université Catholique de Louvain/BeNet Course on "Econometric methods for networks"
-[University of St. Gallen](https://be-net.github.io/2016/), St. Gallen, September 26th to October 3rd, 2016
+[UCL/CORE](https://be-net.github.io/2016/), Louvain, December 12th to 14th, 2016
 
 * [Syllabus](https://github.com/bryangraham/short_courses/blob/master/CORE_Winter_School/Syllabus_CORE_Networks_Dec2016.pdf)
 * GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/CORE_Winter_School) of course materials (includes lecture notes, computer code and datasets)

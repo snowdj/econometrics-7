@@ -16,7 +16,8 @@ permalink: /research/
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_DetailedCalculationsAppendix.pdf)
   * MATLAB [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/LinkFormationMatlabCode.zip)
 <br/>
-<br/>
+<br/>    
+
 ### Publications
 
 _(Note: documents made available for personal study/use only)_
