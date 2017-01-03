@@ -22,7 +22,7 @@ permalink: /research/
 
 _(Note: documents made available for personal study/use only)_
 
-3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) accepted by the _Journal of Econometrics_ (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
+3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) accepted by the _Journal of Econometrics_ (w/ Jinyong Hahn, Alex Poirier and Jim Powell)
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision_SupplementalWebAppendix.pdf) 
   * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
 <br/>
