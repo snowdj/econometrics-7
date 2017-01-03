@@ -9,25 +9,23 @@ permalink: /research/
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
 <br/> 
-2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_19Aug2016_submitted.pdf) submitted, 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
-<br/>
-<br/> 
-3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) resubmitted, 2016 (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
-  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision_SupplementalWebAppendix.pdf) 
-  * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
+2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_03Jan2017_submitted.pdf) submitted, 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
 <br/>
 <br/> 
 4. ["An econometric model of link formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_1stRevision.pdf) conditionally accepted by _Econometrica_, 2014, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) Working paper
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_DetailedCalculationsAppendix.pdf)
   * MATLAB [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/LinkFormationMatlabCode.zip)
-
 <br/>
 <br/>
-
 ### Publications
 
 _(Note: documents made available for personal study/use only)_
 
+3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) accepted by the _Journal of Econometrics_ (w/ Jinyong Hahn, Alex Poirier and Jim Powell), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7646) and [NBER](http://www.nber.org/papers/w21034) Working Paper
+  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision_SupplementalWebAppendix.pdf) 
+  * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
+<br/>
+<br/> 
 1. ["Identifying and estimating neighborhood effects,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicLiterature/JEL_SocIntSurvey_18Aug2016_final.pdf) accepted by the _Journal of Economic Literature_
 <br/>
 <br/>
