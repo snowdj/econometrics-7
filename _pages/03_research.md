@@ -12,9 +12,11 @@ permalink: /research/
 2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_03Jan2017_submitted.pdf) submitted, 2016 (w/ Guido W. Imbens and Geert Ridder), also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
 <br/>
 <br/> 
-4. ["An econometric model of link formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_1stRevision.pdf) conditionally accepted by _Econometrica_, 2014, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) Working paper
-  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_31July2015_DetailedCalculationsAppendix.pdf)
-  * MATLAB [code archive]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/LinkFormationMatlabCode.zip)
+4. ["An econometric model of network formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_17Jan2017_FinalRevision.pdf) conditionally accepted by _Econometrica_, 2014, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) Working paper
+  * [Supplemental web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_17Jan2017_FinalSupplementalAppendix.pdf)
+  * [Detailed calculations]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_17Jan2017_FinalDetailedCalculations.pdf)
+  * Python 2.7 Monte Carlo [script]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/Exog_Net_Monte_Carlo.py)
+  * **Note**: To run the Monte Carlo you will need to install the _netrics_ package. More information is available [here](http://bryangraham.github.io/econometrics/networks/2016/09/15/netrics-module.html). Links: [pypi](https://pypi.python.org/pypi/netrics), [GitHub](https://github.com/bryangraham/netrics)
 <br/>
 <br/>    
 
