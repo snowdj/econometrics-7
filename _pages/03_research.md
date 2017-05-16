@@ -9,7 +9,7 @@ permalink: /research/
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
 <br/> 
-2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_03Jan2017_submitted.pdf), revision requested by the _Journal of Business and Economic Statistics_, 2016 (w/ Guido W. Imbens and Geert Ridder) also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
+2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_03Jan2017_submitted.pdf) revision requested by the _Journal of Business and Economic Statistics_, 2016 (w/ Guido W. Imbens and Geert Ridder) also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
 <br/>
 <br/>    
 
