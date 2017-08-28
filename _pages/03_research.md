@@ -18,7 +18,7 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 
 
-4. ["An econometric model of network formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_v85n4_2017.pdf) _Econometrica_, 85 (4): 1033 - 1063, 2017    
+4. ["An econometric model of network formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_v85n4_2017.pdf) _Econometrica_ 85 (4): 1033 - 1063, 2017    
   * [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) working paper versions
   * [Supplemental web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_Supplement_v85n4_2017.pdf)
   * [Detailed calculations]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/ExogenousNetworks_17Jan2017_FinalDetailedCalculations.pdf)
