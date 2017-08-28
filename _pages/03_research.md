@@ -18,11 +18,12 @@ permalink: /research/
 _(Note: documents made available for personal study/use only)_
 
 
-4. ["An econometric model of network formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_17Jan2017_FinalRevision.pdf) accepted by _Econometrica_, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) Working paper
-  * [Supplemental web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_17Jan2017_FinalSupplementalAppendix.pdf)
-  * [Detailed calculations]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/ExogenousNetworks_17Jan2017_FinalDetailedCalculations.pdf)
-  * Python 2.7 Monte Carlo [script]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/ExogenousNetworks/Exog_Net_Monte_Carlo.py)
-  * **Note**: To run the Monte Carlo you will need to install the _netrics_ package. More information is available [here](http://bryangraham.github.io/econometrics/networks/2016/09/15/netrics-module.html). Links: [pypi](https://pypi.python.org/pypi/netrics), [GitHub](https://github.com/bryangraham/netrics)
+4. ["An econometric model of network formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_v85n4_2017.pdf) _Econometrica_, 85 (4): 1033 - 1063, 2017    
+  * [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) working paper versions
+  * [Supplemental web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_Supplement_v85n4_2017.pdf)
+  * [Detailed calculations]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/ExogenousNetworks_17Jan2017_FinalDetailedCalculations.pdf)
+  * Python 2.7 Monte Carlo [script]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/Exog_Net_Monte_Carlo.py)
+  * **Note**: To run the Monte Carlo you will need to install the _netrics_ package. More information about this package is available [here](http://bryangraham.github.io/econometrics/networks/2016/09/15/netrics-module.html). Links: [pypi](https://pypi.python.org/pypi/netrics), [GitHub](https://github.com/bryangraham/netrics)
 <br/>
 <br/> 
 3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) accepted by the _Journal of Econometrics_ (w/ Jinyong Hahn, Alex Poirier and Jim Powell)
