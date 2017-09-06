@@ -209,7 +209,7 @@
 		line-height: 1em;
 		position: relative;
 		left: 25%;
-		color: #003262;	
+		color: #003262;	                               /* Berkeley Blue */
 	}
 
 	h1+p { 
@@ -247,7 +247,7 @@
 	}
 
 	a:hover {
-		color:#ED4E33
+		color:#ED4E33                                  /* Golden Gate */
 	}
 
 

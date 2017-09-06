@@ -4,6 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
+**Fall 2017 Office Hours**: 
+Mondays 9 - 10AM & Tuesdays 9 - 10AM
+(_e-mail for an appointment_)
+
 Department of Economics  
 University of California - Berkeley  
 530 Evans Hall #3880  
