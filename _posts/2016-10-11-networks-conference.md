@@ -2,7 +2,7 @@
 layout: post
 title:  "Berkeley/CeMMAP Conference on Networks"
 date:   2016-10-11
-categories: Networks, Conferences
+categories: networks conferences
 use_math: true
 ---
 
