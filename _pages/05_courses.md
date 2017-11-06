@@ -7,8 +7,14 @@ Occassionally I teach short courses on econometric methods for the analysis of s
 
 Selected materials from some of my past courses are available below.
 
+### University of Olso Department of Economics Course on "Econometric analysis of network data"
+[UiO](http://www.sv.uio.no/econ/english/), Olso, September 11th to 14th, 2017
+
+* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/Oslo/Syllabus_Olso_Networks_Sept2017.pdf)
+* [Slide Deck](https://github.com/bryangraham/short_courses/tree/master/Oslo/Slides)
+
 ### Singapore Management University School of Economics Course on "Econometric analysis of network data"
-[SMU](https://economics.smu.edu.sg), Washington D.C., May 8th and 9th, 2017
+[SMU](https://economics.smu.edu.sg), Singapore, May 29th to June 2nd, 2017
 
 * [Syllabus](https://github.com/bryangraham/short_courses/blob/master/SMU_CUHK/Syllabus_SMU_Networks_May2017.pdf)
 * [Slide Deck](https://github.com/bryangraham/short_courses/tree/master/SMU_CUHK/Slides)

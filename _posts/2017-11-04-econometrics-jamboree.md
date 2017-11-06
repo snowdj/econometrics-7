@@ -14,7 +14,7 @@ For our attendees coming from Stanford, Evans Hall is very close to the North Ga
 If you have any logistical questions please write [Ingrid Haegele](inha@berkeley.edu).
 
 ## Jamboree Schedule
-**Organizers**
+**Organizers**    
 [_Bryan Graham_](bgraham@econ.berkeley.edu)    
 [_Ingrid Haegele_](inha@berkeley.edu)    
 
@@ -25,7 +25,7 @@ If you have any logistical questions please write [Ingrid Haegele](inha@berkeley
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1: Panel Data Models** |                        
 | 2:00 to 2:45PM | Chris Muris (Simon Fraser, Economics) | _Binarization for panel data models with fixed effects_ (joint with Irene Botosaru) |
-| 2:45 to 3:30PM | Guido Imbens (Stanford, GSB/Economics) | _The role of the propensity score in fixed effects models_ (joint with Dmitry Archangelsky) |
+| 2:45 to 3:30PM | Guido Imbens (Stanford, GSB/Economics) | _The role of the propensity score in fixed effects models_ (joint with Dmitry Arkhangelsky) |
 | 3:30 to 3:45PM  | | Break  |
 |  |  | **Session 2: High Dimensional Models** |       
 | 3:45 to 4:30PM | Lihua Lei (Berkeley, Statistics) | _Asymptotics for high dimensional regression M-estimates: fixed design results_ (joint with Peter Bickel and Noureddine El Karoui)|
