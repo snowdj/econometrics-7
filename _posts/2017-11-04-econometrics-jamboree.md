@@ -23,12 +23,13 @@ If you have any logistical questions please write [Ingrid Haegele](inha@berkeley
 
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
-|  |  | **Session 1: Panel Data Models** |                        
-| 2:00 to 2:45PM | Chris Muris (Simon Fraser, Economics) | _Binarization for panel data models with fixed effects_ (joint with Irene Botosaru) |
-| 2:45 to 3:30PM | Guido Imbens (Stanford, GSB/Economics) | _The role of the propensity score in fixed effects models_ (joint with Dmitry Arkhangelsky) |
-| 3:30 to 3:45PM  | | Break  |
+|  |  | **Session 1: Panel Data & Related Models** |                        
+| 2:00 to 2:45 PM | Chris Muris (Simon Fraser, Economics) | [_Binarization for panel data models with fixed effects_](https://www.ifs.org.uk/uploads/cemmap/wps/CWP311717.pdf) (joint with Irene Botosaru) |
+| 2:45 to 3:30 PM | Guido Imbens (Stanford, GSB/Economics) | _The role of the propensity score in fixed effects models_ (joint with Dmitry Arkhangelsky) |
+| 3:30 to 3:45 PM  | | Break  |
 |  |  | **Session 2: High Dimensional Models** |       
-| 3:45 to 4:30PM | Lihua Lei (Berkeley, Statistics) | _Asymptotics for high dimensional regression M-estimates: fixed design results_ (joint with Peter Bickel and Noureddine El Karoui)|
-| 4:30 to 5:15PM | Markus Pelger (Stanford, Management Science & Engineering) | _Estimating latent asset pricing factors from large-dimensional data_ |
-| 5:15 to 5:30PM  | | Adjorn  |
+| 3:45 to 4:30 PM | Lihua Lei (Berkeley, Statistics) | [_Asymptotics for high dimensional regression M-estimates: fixed design results_](https://arxiv.org/abs/1612.06358) (joint with Peter Bickel and Noureddine El Karoui)|
+| 4:30 to 5:15 PM | Markus Pelger (Stanford, Management Science & Engineering) | _Estimating latent asset pricing factors from large-dimensional data_ |
+| 5:15 to 6:00 PM | Stefan Wager (Stanford, GSB) | [_Efficient policy learning_](https://arxiv.org/abs/1702.02896) (joint with Susan Athey |
+| 6:00 PM  | | Adjorn  |
 {:.mbtablestyle}
