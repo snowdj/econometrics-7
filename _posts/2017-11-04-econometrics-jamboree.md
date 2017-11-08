@@ -5,7 +5,7 @@ date:   2017-11-05
 categories: econometrics conferences
 use_math: true
 ---
-On Friday November 17th, 2017 the Berkeley econometrics group will host a “Berkeley-Stanford Econometrics Jamboree”. The  event will run from 2PM to 5:30PM in room 597 of Evans Hall. Attendence is open to anyone from the Berkeley and Stanford data science communities (broadly and inclusively defined) and there is no need to register. The event is intentionally informal. Please feel free to share these event details with others who may be interested.
+On Friday November 17th, 2017 the Berkeley econometrics group will host a “Berkeley-Stanford Econometrics Jamboree”. The  event will run from 2PM to 6PM in room 597 of Evans Hall. Attendence is open to anyone from the Berkeley and Stanford data science communities (broadly and inclusively defined) and there is no need to register. The event is intentionally informal. Please feel free to share these event details with others who may be interested.
 
 A conference program can be found below. Please contact [Bryan Graham](bgraham@econ.berkeley.edu) with any corrections or possible scheduling conflicts. We’ve got a great group of speakers scheduled.
 
