@@ -29,7 +29,7 @@ If you have any logistical questions please write [Ingrid Haegele](inha@berkeley
 | 3:30 to 3:45 PM  | | Break  |
 |  |  | **Session 2: High Dimensional Models** |       
 | 3:45 to 4:30 PM | Lihua Lei (Berkeley, Statistics) | [_Asymptotics for high dimensional regression M-estimates: fixed design results_](https://arxiv.org/abs/1612.06358) (joint with Peter Bickel and Noureddine El Karoui)|
-| 4:30 to 5:15 PM | Markus Pelger (Stanford, Management Science & Engineering) | _Estimating latent asset pricing factors from large-dimensional data_ |
+| 4:30 to 5:15 PM | Markus Pelger (Stanford, Management Science & Engineering) | _Estimating latent asset pricing factors from large-dimensional data_ (joint with Martin Lettau) |
 | 5:15 to 6:00 PM | Stefan Wager (Stanford, GSB) | [_Efficient policy learning_](https://arxiv.org/abs/1702.02896) (joint with Susan Athey |
 | 6:00 PM  | | Adjorn  |
 {:.mbtablestyle}
