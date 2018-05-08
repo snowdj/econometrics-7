@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-**Fall 2017 Office Hours**:    
-Mondays 9 - 10AM & Tuesdays 9 - 10AM    
+**Summer 2018 Office Hours**:    
+I will not be holding regular office hours over the summer.    
 (_e-mail for an appointment_)
 
 Department of Economics  
