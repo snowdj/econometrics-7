@@ -26,16 +26,14 @@ Professor, Department of Economics, University of California – Berkeley, 2017 
 * [Tufts University](http://ase.tufts.edu/economics/), B.A. in Quantitative Economics, Summa Cum Laude (1993 - 1997)
 
 ### Past Positions
-Associate Professor, Department of Economics, New York University, 2011 - 2017
+Associate Professor, Department of Economics, University of California – Berkeley, 2011 - 2017
 
 Assistant Professor, Department of Economics, New York University, 2009 - 2011
 
-Assistant Professor, Department of Economics, University
-of California – Berkeley, 2005 - 2011 _(on leave 2009 - 2011)_
+Assistant Professor, Department of Economics, University of California – Berkeley, 2005 - 2011 _(on leave 2009 - 2011)_
 
 ### Selected Publications
 1. "An econometric model of network formation with degree heterogeneity,"_Econometrica_ 85 (4): 1033 - 1063, 2017 (_lead article_)
-2. “Methods of identification in social networks,” _Annual Review of Economics_ 7 (1), 2015
 2. "Identification and estimation of average partial effects in `irregular' correlated random coefficient panel data models," _Econometrica_ 80 (5): 2105 - 2152, 2012 (w/ James Powell)
 3. "Inverse probability tilting for moment condition models with missing data," _Review of Economic Studies_ 79 (3): 1053 - 1079, 2012 (w/ Cristine Pinto and Dan Egel) 
 4. “Efficiency bounds for missing data models with semiparametric restrictions,” _Econometrica_ 79 (2): 437 – 452, 2011
@@ -50,7 +48,7 @@ of California – Berkeley, 2005 - 2011 _(on leave 2009 - 2011)_
 ### Selected Grants
 1. National Science Foundation (SES #1357499) grant: “Econometric
 models for networks and matching with heterogeneous agents” (PI)
-(325K), 2015 - 2018
+(325K), 2015 - 2019
 2. National Science Foundation (SES #0921928) grant: “Collaborative
 research: identification, estimation and application of semiparametric
 panel data models” (PI) (365K), 2009 - 2012
