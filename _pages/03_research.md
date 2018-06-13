@@ -17,8 +17,15 @@ permalink: /research/
 
 _(Note: documents made available for personal study/use only)_
 
-
-4. ["An econometric model of network formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_v85n4_2017.pdf) _Econometrica_ 85 (4): 1033 - 1063, 2017    
+3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) accepted by the _Journal of Econometrics_ (w/ Jinyong Hahn, Alex Poirier and Jim Powell)
+  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision_SupplementalWebAppendix.pdf) 
+  * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
+<br/>
+<br/> 
+4. 1. ["Identifying and estimating neighborhood effects,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicLiterature_v56n2_2018/BSG_JournalOfEconomicLiterature_v56n2_2018.pdf) accepted by the _Journal of Economic Literature_56 (2): 450 - 500, 2018
+<br/>
+<br/>
+5. ["An econometric model of network formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_v85n4_2017.pdf) _Econometrica_ 85 (4): 1033 - 1063, 2017    
   * [CEMMAP](http://www.cemmap.ac.uk/publication/id/7930) and [NBER](http://www.nber.org/papers/w20341) working paper versions
   * [Supplemental web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_Supplement_v85n4_2017.pdf)
   * [Detailed calculations]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/ExogenousNetworks_17Jan2017_FinalDetailedCalculations.pdf)
@@ -26,14 +33,6 @@ _(Note: documents made available for personal study/use only)_
   * **Note**: To run the Monte Carlo you will need to install the _netrics_ package. More information about this package is available [here](http://bryangraham.github.io/econometrics/networks/2016/09/15/netrics-module.html). Links: [pypi](https://pypi.python.org/pypi/netrics), [GitHub](https://github.com/bryangraham/netrics)
 <br/>
 <br/> 
-3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) accepted by the _Journal of Econometrics_ (w/ Jinyong Hahn, Alex Poirier and Jim Powell)
-  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision_SupplementalWebAppendix.pdf) 
-  * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
-<br/>
-<br/> 
-1. ["Identifying and estimating neighborhood effects,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicLiterature/JEL_SocIntSurvey_18Aug2016_final.pdf) accepted by the _Journal of Economic Literature_
-<br/>
-<br/>
 1. ["Efficient estimation of data combination models by the method of auxiliary-to-study tilting (AST),"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/BSG_JBES_v34n2_2016.pdf) _Journal of Business and Economic Statistics_ 31 (2): 288 - 301, 2016 (w/ Cristine Pinto and Daniel Egel)
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/DataCombination_3rdResubmission_18Mar2015_SupplementalWebAppendix.pdf)
   * Stata [DCT]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_BlkWhtGap.dct) and [Do]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Illustration_Sample.do) files, Matlab [code]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/AST_MATLAB_CODE.zip), dataset ([tab delimited]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY79_Sample.out), [mat]({{ site.url }}{{ site.baseurl}}/downloads/publications/JBES_v34n2_2016/NLSY_AST_Sample.mat))
