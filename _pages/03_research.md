@@ -22,7 +22,7 @@ _(Note: documents made available for personal study/use only)_
   * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
 <br/>
 <br/> 
-4. ["Identifying and estimating neighborhood effects,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicLiterature_v56n2_2018/BSG_JournalOfEconomicLiterature_v56n2_2018.pdf) accepted by the _Journal of Economic Literature_56 (2): 450 - 500, 2018
+4. ["Identifying and estimating neighborhood effects,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicLiterature_v56n2_2018/BSG_JournalOfEconomicLiterature_v56n2_2018.pdf) accepted by the _Journal of Economic Literature_ 56 (2): 450 - 500, 2018
 <br/>
 <br/>
 5. ["An econometric model of network formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_v85n4_2017.pdf) _Econometrica_ 85 (4): 1033 - 1063, 2017    
