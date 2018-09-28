@@ -17,12 +17,12 @@ _(Note: documents made available for personal study/use only)_
 2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_30April2018rev2.pdf) accepted by the _Journal of Business and Economic Statistics_, 2016 (w/ Guido W. Imbens and Geert Ridder) also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
 <br/>
 <br/>    
-3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision.pdf) accepted by the _Journal of Econometrics_ (w/ Jinyong Hahn, Alex Poirier and Jim Powell)
-  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanelData_GHPP_Aug2016_Revision_SupplementalWebAppendix.pdf) 
-  * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/QuantilePanel/NLSY79_Teaching_Fall2014.dta) files
+3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/BSG_JournalOfEconometrics_v206n2_2018.pdf) _Journal of Econometrics_ 206 (2): 305 - 335 (w/ Jinyong Hahn, Alex Poirier and Jim Powell)
+  * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/QuantilePanelData_GHPP_Aug2016_Revision_SupplementalWebAppendix.pdf) 
+  * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/NLSY79_Teaching_Fall2014.dta) files
 <br/>
 <br/> 
-4. ["Identifying and estimating neighborhood effects,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicLiterature_v56n2_2018/BSG_JournalOfEconomicLiterature_v56n2_2018.pdf) accepted by the _Journal of Economic Literature_ 56 (2): 450 - 500, 2018
+4. ["Identifying and estimating neighborhood effects,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicLiterature_v56n2_2018/BSG_JournalOfEconomicLiterature_v56n2_2018.pdf) _Journal of Economic Literature_ 56 (2): 450 - 500, 2018
 <br/>
 <br/>
 5. ["An econometric model of network formation with degree heterogeneity,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v85n4_2017/BSG_Econometrica_v85n4_2017.pdf) _Econometrica_ 85 (4): 1033 - 1063, 2017    
