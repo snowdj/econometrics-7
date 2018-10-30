@@ -5,6 +5,11 @@ permalink: /research/
 ---
 ### Working papers
 
+1. [Semiparametrically efficient estimation of the average linear regression function]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_PaperAndAppendix.pdf) submitted (w/ Cristine Pinto)
+ *[Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_WebAppendix.pdf)
+ *[Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
+<br/>
+<br/> 
 1. ["Homophily and transitivity in dynamic network formation,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf) revision requested by the _Review of Economic Studies_, 2016, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8238) Working paper
   * iPython [Notebook]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Dynamic_Networks_Notebook_1.ipynb) to replicate figures and Monte Carlos
 <br/>
