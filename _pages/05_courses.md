@@ -7,7 +7,7 @@ Occassionally I teach short courses on econometric methods for the analysis of s
 
 Selected materials from some of past courses are available below.
 
-###St. Galen Ph.D. Course on “Econometric methods for social spillovers and networks”
+### St. Galen Ph.D. Course on “Econometric methods for social spillovers and networks”
 University of St. Gallen, St. Gallen, Octover 1st to October 9th, 2018
 
 * [Syllabus](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Syllabus_St_Gallen_Networks_Oct2018.pdf)
