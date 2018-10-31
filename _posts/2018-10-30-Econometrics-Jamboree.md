@@ -27,7 +27,7 @@ If you have any logistical questions please write [Ingrid Haegele](inha@berkeley
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1:** |                        
 | 2:00 to 2:45 PM | Art Owen (Stanford University, Statistics) | TBA |
-| 2:45 to 3:30 PM | Jann Spiesss (Microsoft Research / Stanford, GSB) | TBA |
+| 2:45 to 3:30 PM | Jann Spiess (Microsoft Research / Stanford, GSB) | TBA |
 | 3:30 to 3:45 PM  | | Break  |
 |  |  | **Session 2:** |       
 | 3:45 to 4:30 PM | Xiaoxia Shi (Wisconsin, Economics) | TBA|

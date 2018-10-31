@@ -5,7 +5,13 @@ permalink: /courses/
 ---
 Occassionally I teach short courses on econometric methods for the analysis of spillovers and network data. I have also taught standard microeconometric topics, including covariate adjustment, program evaluation and panel data. Courses typically emphasize both theory and practical computation.
 
-Selected materials from some of my past courses are available below.
+Selected materials from some of past courses are available below.
+
+###St. Galen Ph.D. Course on “Econometric methods for social spillovers and networks”
+University of St. Gallen, St. Gallen, Octover 1st to October 9th, 2018
+
+* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Syllabus_St_Gallen_Networks_Oct2018.pdf)
+* GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/St_Gallen/2018) of course materials (includes lecture notes, computer code and datasets)
 
 ### University of Olso Department of Economics Course on "Econometric analysis of network data"
 [UiO](http://www.sv.uio.no/econ/english/), Olso, September 11th to 14th, 2017
@@ -35,8 +41,8 @@ Selected materials from some of my past courses are available below.
 ### St. Galen Ph.D. Course on "Econometric methods for social spillovers and networks"
 [University of St. Gallen](http://www.sew.unisg.ch/en), St. Gallen, September 26th to October 3rd, 2016
 
-* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/Syllabus/Syllabus_St_Gallen_Networks_Sept2016.pdf)
-* GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/St_Gallen) of course materials (includes lecture notes, computer code and datasets)
+* [Syllabus](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2016/Syllabus/Syllabus_St_Gallen_Networks_Sept2016.pdf)
+* GitHub [repository](https://github.com/bryangraham/short_courses/tree/master/St_Gallen/2016) of course materials (includes lecture notes, computer code and datasets)
 
 ### CEMFI Summer School Course on "Empirical methods for program evaluation and networks"
 [CEMFI](http://www.cemfi.es/), Madrid, August 24th to 28th, 2015

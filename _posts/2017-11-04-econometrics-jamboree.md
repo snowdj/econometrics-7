@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Berkeley-Stanford Econometrics Jamboree"
-date:   2018-11-05
+date:   2017-11-04
 categories: econometrics conferences
 use_math: true
 ---

@@ -4,10 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-**Summer 2018 Office Hours**:    
-I will not be holding regular office hours over the summer.    
-(_e-mail for an appointment_)
-
 Department of Economics  
 University of California - Berkeley  
 530 Evans Hall #3880  
