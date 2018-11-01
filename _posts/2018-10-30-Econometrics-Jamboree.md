@@ -26,12 +26,12 @@ If you have any logistical questions please write [Ingrid Haegele](inha@berkeley
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1:** |                        
-| 2:00 to 2:45 PM | Art Owen (Stanford University, Statistics) | TBA |
-| 2:45 to 3:30 PM | Jann Spiess (Microsoft Research / Stanford, GSB) | TBA |
+| 2:00 to 2:45 PM | Art Owen (Stanford University, Statistics) | Optimizing the tie-breaker regression discontinuity design |
+| 2:45 to 3:30 PM | Jann Spiess (Microsoft Research / Stanford, GSB) | Unbiased shrinkage estimation |
 | 3:30 to 3:45 PM  | | Break  |
 |  |  | **Session 2:** |       
-| 3:45 to 4:30 PM | Xiaoxia Shi (Wisconsin, Economics) | TBA|
+| 3:45 to 4:30 PM | Xiaoxia Shi (Wisconsin, Economics) | A simple uniformly valid test for inequalities|
 | 4:30 to 5:15 PM | Noureddine El Karoui  (Berkeley, Statistics) | TBA |
-| 5:15 to 6:00 PM | Avi Feller (Berkeley, Goldman/Statistics) | TBA |
+| 5:15 to 6:00 PM | Avi Feller (Berkeley, Goldman/Statistics) | Augmented Synthetic Control Method |
 | 6:00 PM  | | Adjorn  |
 {:.mbtablestyle}
