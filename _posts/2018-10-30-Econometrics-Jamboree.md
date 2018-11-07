@@ -32,6 +32,6 @@ If you have any logistical questions please write [Ingrid Haegele](inha@berkeley
 |  |  | **Session 2:** |       
 | 3:45 to 4:30 PM | Xiaoxia Shi (Wisconsin, Economics) | A simple uniformly valid test for inequalities|
 | 4:30 to 5:15 PM | Noureddine El Karoui  (Criteo AI Lab, Paris/Palo Alto & Berkeley, Statistics) | Auction theory from the bidder standpoint |
-| 5:15 to 6:00 PM | Avi Feller (Berkeley, Goldman/Statistics) | Augmented Synthetic Control Method |
+| 5:15 to 6:00 PM | Avi Feller (Berkeley, Goldman/Statistics) | Augmented synthetic control method |
 | 6:00 PM  | | Adjorn  |
 {:.mbtablestyle}
