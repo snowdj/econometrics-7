@@ -11,7 +11,7 @@ A conference program can be found below. Please contact [Bryan Graham](bgraham@e
 
 For our attendees coming from Stanford, Evans Hall is very close to the North Gate of our campus. The nearest BART stop is Downtown Berkeley. The nearest public parking facility is the Lower Hearst / North Gate parking garage at the intersection of Scenic & Hearst (enter from Scenic to access hourly parking spaces).
 
-This year we will also organize a morning session consisting of short student presentations. Details on this portion of the event will be made available when finalized.
+This year we will also organize a morning session consisting of short (20 minute) student presentations. Student presentations will be held from 9AM to 11:30AM in the Neyman Room. Confirmed student presenters are Fengshi Niu, Andrin Pelican, Jake Soloff, Sara Stoudt and Jason Wu (exact order to be determined).
 
 If you have any logistical questions please write [Ingrid Haegele](inha@berkeley.edu).
 
