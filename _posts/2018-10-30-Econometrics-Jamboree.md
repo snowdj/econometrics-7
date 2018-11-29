@@ -11,7 +11,7 @@ A conference program can be found below. Please contact [Bryan Graham](bgraham@e
 
 For our attendees coming from Stanford, Evans Hall is very close to the North Gate of our campus. The nearest BART stop is Downtown Berkeley. The nearest public parking facility is the Lower Hearst / North Gate parking garage at the intersection of Scenic & Hearst (enter from Scenic to access hourly parking spaces).
 
-This year we will also organize a morning session consisting of short (20 minute) student presentations. Student presentations will be held from 9AM to 11:30AM in the Neyman Room. Confirmed student presenters are Fengshi Niu, Andrin Pelican, Jake Soloff, Sara Stoudt and Jason Wu (exact order to be determined).
+This year we will also organize a morning session consisting of short (20 minute) student presentations. **Student presentations will be held from 9AM to 11:30AM in the Neyman Room.** Confirmed student presenters are Michael Pollmann, Fengshi Niu, Andrin Pelican, Jake Soloff, Sara Stoudt and Jason Wu (exact order to be determined).
 
 If you have any logistical questions please write [Ingrid Haegele](inha@berkeley.edu).
 
@@ -27,11 +27,11 @@ If you have any logistical questions please write [Ingrid Haegele](inha@berkeley
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1:** |                        
 | 2:00 to 2:45 PM | Art Owen (Stanford University, Statistics) | Optimizing the tie-breaker regression discontinuity design |
-| 2:45 to 3:30 PM | Jann Spiess (Microsoft Research & Stanford, GSB) | Unbiased shrinkage estimation |
+| 2:45 to 3:30 PM | Avi Feller and Jesse Rothstein (Berkeley, Goldman/Statistics) | Augmented synthetic control method |
 | 3:30 to 3:45 PM  | | Break  |
 |  |  | **Session 2:** |       
 | 3:45 to 4:30 PM | Xiaoxia Shi (Wisconsin, Economics) | A simple uniformly valid test for inequalities|
 | 4:30 to 5:15 PM | Noureddine El Karoui  (Criteo AI Lab, Paris/Palo Alto & Berkeley, Statistics) | Auction theory from the bidder standpoint |
-| 5:15 to 6:00 PM | Avi Feller (Berkeley, Goldman/Statistics) | Augmented synthetic control method |
+| 5:15 to 6:00 PM | Jann Spiess (Microsoft Research & Stanford, GSB) | Unbiased shrinkage estimation |
 | 6:00 PM  | | Adjorn  |
 {:.mbtablestyle}
