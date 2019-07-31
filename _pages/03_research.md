@@ -5,11 +5,11 @@ permalink: /research/
 ---
 ### Working papers
 
-1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/StrategicTesting/TestingAndSimulation_29Jul2019.pdf) w/ Andrin Pelican
+1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/StrategicTesting/TestingAndSimulation_31Jul2019.pdf) w/ Andrin Pelican
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_4_Network_Simulation.ipynb) 
 <br/>
 <br/> 
-2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/DyadicDensity_26Jul19.pdf) w/ Fengshi Niu and James L. Powell)
+2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/DyadicDensity_31Jul19.pdf) w/ Fengshi Niu and James L. Powell)
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
