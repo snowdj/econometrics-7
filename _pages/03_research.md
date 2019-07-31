@@ -9,7 +9,7 @@ permalink: /research/
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_4_Network_Simulation.ipynb) 
 <br/>
 <br/> 
-2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/DyadicDensity_31Jul19.pdf) w/ Fengshi Niu and James L. Powell)
+2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf) w/ Fengshi Niu and James L. Powell)
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
