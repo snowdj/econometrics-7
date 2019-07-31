@@ -1,0 +1,636 @@
+/* Base template styles for John Wiley & Sons landing pages - Jan 16, 2018 */
+/* Change log: this update: Jan 16, 2018 
+Fix for tabs: March 18, 2018
+Secure link for footer background image: January 8, 2019 
+Added section for cookie pop-up: April 18, 2019*/
+
+body {
+	color:#1C1D1E;
+	font-family:"Open Sans", 'Arial', sans-serif;
+}
+/* this sets the width of the main content - 990px */
+.grid-container {
+    max-width: 990px;
+    padding:20px 10px
+}
+
+.page-content-wrapper {
+    padding:0px 20px
+}
+h1, h2, h3, h4, h5 {
+     line-height: 110%;
+}
+
+h1 {
+	font-family: 'Source Serif Pro', 'Georgia', serif;
+    font-size:36px;
+    line-height: 110%;
+    margin:20px 0px 10px 0px;
+    font-weight: 700;
+
+}
+
+h2, h3, h5, p {
+	font-family: "Open Sans", 'Arial', sans-serif;;
+} 
+
+h4 {
+    font-family: 'Source Serif Pro', 'Georgia', serif;
+    font-size:22px;
+    margin:10px 0px 10px 0px;
+    font-weight: 700;
+}
+
+h5 {
+    font-size:18px;
+    line-height: 120%;
+    margin:10px 0px 20px 0px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 140%;
+    margin: 0 0 20px 0;
+    font-family: inherit;
+    font-weight: 400;
+}
+
+h2 {
+	font-size:24px;
+    
+}
+
+.sectionhead {
+	font-size:24px;
+	font-weight:700;
+    line-height:120%;
+    text-transform: uppercase;
+    border-bottom:1px solid #D8D9DA;
+    margin:5px 0px 20px 0px;
+    padding-bottom:5px;
+}
+
+h3 {
+	font-size:14px;
+	font-weight:700;
+    line-height:140%;
+    text-transform: uppercase;
+   /*  border-bottom:1px solid #D8D9DA; */
+}
+
+
+/* customize color */
+.blue {color:#192B67;}
+.teal {color:#006D76;}
+.green {color:#057245;}
+.orange {color:#A42F13;}
+.red {color:#690727;}
+.purple {color:#440F42;}
+
+
+.header-rule {border-bottom:1px solid #D8D9DA;background-color:#FFFFFF;}
+.top-bar, .top-bar ul {background-color:#FFFFFF;}
+.top-bar { max-width: 970px; margin: 0px auto;}
+.top-bar-right {
+    flex:none;
+}
+
+.top-bar .top-bar-left, .top-bar .top-bar-right {
+    -ms-flex: none;
+    flex: none;
+    max-width: 100%;
+}
+.logo img {
+    width: 140px;
+  
+}
+
+.socialLinks a {padding: 8px 5px;}
+.socialLinks img {width: 36px;}
+
+a {color: #192B67;}
+a:hover {color: #111E48; text-decoration: underline;}
+
+/* BUTTONS - SET COLORS TO YOUR THEME. DEFAULT THEME IS TEAL ////////////// */
+
+.button, .callout {border-radius:0px}
+
+/* primary color button - both button and input class */
+
+.button.primary {background-color: #006D76;}
+
+.button.primary:hover, input .button.primary:hover {background-color:#FFF; border:1px solid #006D76; color:#006D76;}
+
+a.button.primary, a:hover.button.primary, input.button.primary, input:hover.button.primary  {color:#FFF;}
+
+input:hover.button.primary, a:hover.button.primary {color:#006D76}
+
+/* secondary button - both button and input class */
+
+.button.secondary, input.button.secondary {
+    background-color: #D8D9DA;
+    color: #1C1D1E;
+}
+
+input:hover.button.secondary, a:hover.button.secondary {
+    background-color:#FFF; 
+    border: 1px solid #767676;
+}
+
+/* hollow button */
+.button.hollow.primary, a.button.hollow.primary {
+    border: 1px solid #006D76;
+    color: #006D76;
+    background-color: transparent;
+}
+
+a:hover.button.hollow.primary, .button.hollow.primary:hover {
+    border: 1px solid #006D76;
+    color: #009CA9;
+}
+
+.button.hollow.secondary {
+    border: 1px solid #767676;
+    color: #1C1D1E;
+    background-color: transparent;
+}
+
+/* Callout button (for cookie pop-up) applied 18-Mar-19 - CF */
+/* callout button */
+.button.callout {background-color: #009CA9;}
+.button.callout:hover {background-color:#02E8FB; border:1px solid #009CA9; color:#009CA9;}
+a.button.callout, a:hover.button.primary {color:#02E8FB;}
+a:hover.button.callout {color:#02E8FB}
+/* End Callout button (for cookie pop-up) applied 18-Mar-19 - CF */
+
+/* CALLOUTS BLOCKQUOTES CAPTIONS AND TABLES /////////////// */
+
+.caption {
+    margin-top:15px
+}
+
+.callout.large {
+    padding-top: 2rem;
+    padding-right: 3rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+.callout.primary {
+    background-color: #e6f4fd;
+}
+
+.callout.secondary {
+    background-color: #EFEFF0;
+    border: none;
+}
+
+.callout p {
+    font-size: 14px;
+}
+
+/* Callout style (for cookie pop-up) applied 18-Mar-19 - CF */
+.banner {background-color: #ecedee; border:none;}
+.callout.banner {padding-top:0px; padding-bottom:0px;}
+.grid-container.banner {padding-top:10px; padding-bottom:0px;} 
+/* End Callout style (for cookie pop-up) applied 18-Mar-19 - CF */
+
+.center-caption {
+    text-align: center;
+}
+
+.center-caption img {
+    margin-bottom:10px
+}
+
+blockquote {
+    border-left: none;
+    border-top:2px solid #cacaca;
+    border-bottom:2px solid #cacaca;
+    font-weight: 700;
+    line-height: 130%;
+    color:#414246;
+}
+
+blockquote cite {
+    margin-top:10px;
+}
+
+blockquote.rightside {
+    width: 260px; 
+    float:right; 
+    margin: 0px 0px 20px 20px; 
+    padding:20px
+}
+
+blockquote.leftside {
+    width: 260px; 
+    float:left; 
+    margin: 0px 20px 20px 0px;  
+    padding:20px
+}
+
+/* FANCY FULL WIDTH PARALLAX HERO UNIT /////////  */
+
+.full-parallax-hero { 
+    width: 100%;
+    display: block;
+   /* set hero image BACKGROUND inline */
+   /* EXAMPLE: background-image: url("img_parallaxhero.jpg"); *
+
+    /* Set a specific height */
+    height: 400px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.full-parallax-hero-caption {
+    padding: 50px 20px;
+    color: #FFFFFF;
+}
+
+.full-parallax-hero-caption h1 {
+    font-size: 50px;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+}
+.full-parallax-hero-caption p {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/* BANNER STYLE HERO UNIT /////////  */
+
+/* set hero image BACKGROUND inline */
+.hero {
+    margin:0px 0px 20px 0px;
+    border-radius:0px;
+    border:1px solid #C2C3C6;
+    border-bottom:none;  
+    background-size: cover;
+    background-position: right;
+}
+
+/* customize color of left bar in hero unit - yellow is default */
+/* yellow: #FFAF05; light blue/teal:#06B2FA; bright green:#00E788 */
+.g1 h1 {border-left: 2px solid #FFAF05;}
+.g2 h1 {border-left: 2px solid #FFAF05;}
+.g3 h1 {border-left: 2px solid #FFAF05;}
+.g4 h1 {border-left: 2px solid #FFAF05;}
+.g5 h1 {border-left: 2px solid #FFAF05;}
+.g6 h1 {border-left: 2px solid #FFAF05;}
+
+.hero h1 {
+    padding-left:16px;
+    margin:0px 0px;
+}
+.hero h1, .hero p {
+    color:#FFF;
+}
+
+.hero-caption {
+    display: block;
+    max-width:600px;
+}
+
+.hero p {
+  font-size:16px;
+  margin:10px 0px 0px 20px;
+}
+
+
+/* FORMS */
+
+label {
+    font-weight: 700;
+}
+
+.required {color: red}
+
+.compact-form label {
+    font-size: 12px;
+}
+
+.compact-form input, .compact-form select, .compact-form textarea {
+    font-size: 12px;
+    height: 1.9rem;
+    margin: 0 0 1rem;
+    padding: .5rem;
+    background-position: right 0rem center;
+    background-size: 9px 6px;
+    line-height: 1.1;
+}
+
+.compact-form [type=checkbox], .compact-form [type=radio] {
+    float:left;
+    margin:0px 5px 5px 0px;
+}
+
+.compact-form [type=checkbox]+label, .compact-form [type=radio]+label {
+    display: inline;
+    vertical-align:middle;
+    margin-left: 0rem;
+    margin-right: 1rem;
+    margin-bottom: 0;
+    line-height: 120%; 
+}
+
+.compact-form textarea {height:100px;resize: none;}
+
+form h2 {margin-bottom:20px}
+form p {font-size: 14px}
+
+.formhead-small {font-size:20px; line-height: 120%;}
+
+.slider-handle {
+    background-color:#006D76 ;
+    border-radius: 20px;
+}
+
+.slider.disabled, .slider[disabled] {
+    opacity: .85;   
+}
+
+.slider.disabled .slider-handle {
+    background-color:#C2C3C6
+}
+
+
+/* TABS */
+
+.common-tabs {
+    border: none;
+}
+
+.common-tabs ul.tabs { display: flex;}
+.common-tabs ul.tabs li {  
+    background: none;
+    margin: 0;
+	/* Tab fix applied 8-Mar-18 - CF */
+    /*flex-shrink: 0;*/
+	flex-shrink: 1;
+	/* End tab fix applied 8-Mar-18 - CF */
+    flex-grow: 1;
+    border: none;
+    border-bottom: 1px solid #dddedf;
+
+}
+
+.common-tabs .tabs li a {
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #949799;
+}
+.common-tabs .tabs, .common-tabs .tabs-content {border:none}
+.common-tabs .tabs-title {text-align: center; }
+.common-tabs .tabs-title>a:focus, .tabs-title>a[aria-selected=true] { 
+    color: #1ba7b1;
+    font-weight: 700;
+    cursor: default;
+    border: none;
+    border-bottom: 5px solid #1ba7b1;
+    background: transparent;
+}
+
+.common-tabs .tabs li.active > a {
+    color: #1ba7b1;
+    font-weight: 700;
+    cursor: default;
+    border: none;
+    border-bottom: 5px solid #1ba7b1;
+}
+
+.common-tabs .tabs li a:hover {
+    color: #1ba7b1;
+    font-weight: 700;
+    cursor: default;
+    border: none;
+    border-bottom: 5px solid #1ba7b1;
+    text-decoration: none;
+}
+
+/* images*/
+
+.left-image {
+    padding:0 15px 15px 0px;
+    margin-top:5px
+}
+
+.right-image {
+    padding:0 0px 15px 15px;
+    margin-top:5px
+}
+
+/* FOOTER */
+
+footer {
+    margin:20px 0px 0px 0px;
+    border-top:1px solid #D8D9DA;
+    padding:10px 20px;
+    background-image: url(https://img03.en25.com/EloquaImages/clients/WileyEnterprise/%7B4c2ed438-f91c-4a5a-ba61-cb168a5d6f5b%7D_main-footer-bg.png);
+    background-size: cover;
+}
+
+footer p, footer a {font-weight:400; color: #949799;}
+
+footer a:hover {color: #949799;}
+	
+footer p {
+    margin: 0;
+    padding:0px 20px 10px 20px;
+    font-size: 12px;
+ 
+}
+
+footer img {
+    padding:0px 20px 0px 20px;
+    height: 20px;
+}
+
+footer a.privacyPolicy {color: #ffffff;
+	text-transform: uppercase;
+	margin-bottom:10px;
+}
+
+footer a.privacyPolicy:hover {text-decoration: underline;
+}
+
+/* shadows */
+
+.shadow {
+    box-shadow: 0px 2px 6px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+/* template helpers */
+
+.template-spacer {margin: 50px}
+
+
+/* colors */
+
+/*  Wiley Gradients */
+
+/* BLUE-TEAL */
+ .g1 {
+color: #fff;
+background: #005274;
+background: -moz-linear-gradient(45deg, #18326b 0%, #0199a7 99%);
+background: -webkit-linear-gradient(45deg, #18326b 0%, #0199a7 99%);
+background: linear-gradient(45deg, #18326b 0%, #0199a7 99%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#18326b', endColorstr='#0199a7', GradientType=1 ); }
+
+/* RED */
+.g2 {
+color: #fff;
+background: #970A38;
+background: -moz-linear-gradient(45deg, #64155c 0%, #940b3a 99%);
+background: -webkit-linear-gradient(45deg, #64155c 0%, #940b3a 99%);
+background: linear-gradient(45deg, #64155c 0%, #940b3a 99%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#64155c', endColorstr='#940b3a', GradientType=1 ); }
+
+/* ORANGE-YELLOW */
+.g3 {
+color: #fff;
+background: #EB431B;
+background: -moz-linear-gradient(45deg, #ec461a 0%, #feac06 99%);
+background: -webkit-linear-gradient(45deg, #ec461a 0%, #feac06 99%);
+background: linear-gradient(45deg, #ec461a 0%, #feac06 99%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ec461a', endColorstr='#feac06', GradientType=1 ); }
+
+/* RED-ORANGE */
+.g4 {
+color: #fff;
+background: #A41022;
+background: -moz-linear-gradient(45deg, #9a0c37 0%, #e8411c 100%);
+background: -webkit-linear-gradient(45deg, #9a0c37 0%, #e8411c 100%);
+background: linear-gradient(45deg, #9a0c37 0%, #e8411c 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9a0c37', endColorstr='#e8411c', GradientType=1 ); }
+
+/* PURPLE */
+.g5 {
+color: #fff;
+background: #440F42;
+background: -moz-linear-gradient(45deg, #1d2a67 1%, #5f175e 99%);
+background: -webkit-linear-gradient(45deg, #1d2a67 1%, #5f175e 99%);
+background: linear-gradient(45deg, #1d2a67 1%, #5f175e 99%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d2a67', endColorstr='#5f175e', GradientType=1 );
+}
+
+/* GREEN */
+.g6 {
+color: #fff;
+background: #07A363;
+background: -moz-linear-gradient(45deg, #005673 0%, #07a163 99%);
+background: -webkit-linear-gradient(45deg, #005673 0%, #07a163 99%);
+background: linear-gradient(45deg, #005673 0%, #07a163 99%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005673', endColorstr='#07a163', GradientType=1 );
+} 
+
+.gradient-gray {
+background: #efeff0; /* Old browsers */
+background: -moz-linear-gradient(top, #efeff0 0%, #ffffff 49%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #efeff0 0%,#ffffff 49%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #efeff0 0%,#ffffff 49%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efeff0', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+
+/* MEDIA QUERIES */
+/* Small only */
+@media screen and (max-width: 39.9375em) {    
+    footer img {margin:0px 0px 10px 0px;}
+    .full-parallax-hero-caption {padding: 10px 20px; }
+    .full-parallax-hero-caption p {font-size: 16px;}
+	/* Tab fix applied 8-Mar-18 - CF */
+	.common-tabs ul.tabs {flex-wrap: wrap;}
+	.tabs-title {width: 100%;}    
+	/* End tab fix applied 8-Mar-18 - CF */
+}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {
+    
+}
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+    
+}
+
+/* Large and up */
+@media screen and (min-width: 64em) {
+    
+    .full-parallax-hero-caption h1 {font-size: 80px;}
+    .full-parallax-hero-caption {padding: 50px 20px; }
+
+}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+    
+    
+}
+
+
+/* PALETTE FOR WILEY ////   
+colors are listed as:
+ dark/
+ medium/
+ light
+ 
+blue
+#111E48
+#192B67
+#003BFF
+
+teal1
+#003951
+#005274
+#06B2FA
+
+teal2 // reserved for corporate
+#006D76
+#009CA9 // primary
+#02E8FB
+
+green
+#057245
+#07A363
+#00E788
+
+yellow
+#B27A03
+#FFAF05
+#FFD905
+
+orange
+#A42F13
+#EB431B
+#FF6D1D
+
+red 1
+#A41022
+#EB1730
+#FF2B44
+
+red 2
+#690727
+#970A38
+#FF0053
+
+purple
+#440F42
+#61165E
+#D415CC
+
+black/gray
+#1C1D1E
+#2f3032
+#414246
+
+gray
+#C2C3C6
+#D8D9DA
+#EFEFF0 */

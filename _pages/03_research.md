@@ -5,9 +5,17 @@ permalink: /research/
 ---
 ### Working papers
 
+1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/StrategicTesting/TestingAndSimulation_29Jul2019.pdf) w/ Andrin Pelican
+ * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_4_Network_Simulation.ipynb) 
+<br/>
+<br/> 
+2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/DyadicDensity_26Jul19.pdf) w/ Fengshi Niu and James L. Powell)
+ * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
+<br/>
+<br/> 
 1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_PaperAndAppendix.pdf) submitted (w/ Cristine Pinto)
- * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_WebAppendix.pdf)
- * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
+  * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_WebAppendix.pdf)
+  * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
 <br/>
 <br/> 
 1. ["Homophily and transitivity in dynamic network formation,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DynamicNetworks/Homophily_and_Transitivity_April2016.pdf) revision requested by the _Review of Economic Studies_, 2016, also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8238) Working paper
