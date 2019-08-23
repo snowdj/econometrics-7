@@ -5,7 +5,8 @@ permalink: /research/
 ---
 ### Working papers
 
-1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf)  * [arXiv version]()
+1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf)  
+ * [arXiv version]()
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_3_Dyadic_Regression.ipynb)
  * __Note__: This is a draft chapter for the book the _The Econometric Analysis of Network Data_ (which I am co-editing with Aureo de Paula)
 <br/>
