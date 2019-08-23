@@ -5,11 +5,19 @@ permalink: /research/
 ---
 ### Working papers
 
+1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf)  * [arXiv version]()
+ * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_3_Dyadic_Regression.ipynb)
+ * __Note__: This is a draft chapter for the book the _The Econometric Analysis of Network Data_ (which I am co-editing with Aureo de Paula)
+<br/>
+<br/>  
 1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/StrategicTesting/TestingAndSimulation_31Jul2019.pdf) w/ Andrin Pelican
- * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_4_Network_Simulation.ipynb) 
+ * [arXiv version](https://arxiv.org/abs/1908.00099)
+ * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_4_Network_Simulation.ipynb)
+ *  __Note__: This is a draft chapter for the book the _The Econometric Analysis of Network Data_ (which I am co-editing with Aureo de Paula) 
 <br/>
 <br/> 
 2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf) w/ Fengshi Niu and James L. Powell)
+ * [arXiv version](https://arxiv.org/abs/1907.13630)
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
