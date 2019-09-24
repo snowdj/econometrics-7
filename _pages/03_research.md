@@ -5,24 +5,28 @@ permalink: /research/
 ---
 ### Working papers
 
-1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf)  
- * [arXiv version]()
+1. ["Network data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/NetworkData/NetworkDataChapter.pdf), 2019
+ * __Note__: This is a draft chapter for the next volume of [_The Handbook of Econometrics_](https://www.elsevier.com/books/handbook-of-econometrics/durlauf/978-0-444-63649-2) 
+<br/>
+<br/>  
+1. ["Dyadic regression"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicRegression/Dyadic_M_Estimation_21Aug2019.pdf), 2019  
+ * [arXiv version](https://arxiv.org/abs/1908.09029)
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_3_Dyadic_Regression.ipynb)
  * __Note__: This is a draft chapter for the book the _The Econometric Analysis of Network Data_ (which I am co-editing with Aureo de Paula)
 <br/>
 <br/>  
-1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/StrategicTesting/TestingAndSimulation_31Jul2019.pdf) w/ Andrin Pelican
+1. ["Testing for externalities in network formation using simulation"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/StrategicTesting/TestingAndSimulation_31Jul2019.pdf), 2019 (w/ Andrin Pelican)
  * [arXiv version](https://arxiv.org/abs/1908.00099)
  * [Code for Empirical Example](https://github.com/bryangraham/short_courses/blob/master/St_Gallen/2018/Notebooks/Notebook_4_Network_Simulation.ipynb)
  *  __Note__: This is a draft chapter for the book the _The Econometric Analysis of Network Data_ (which I am co-editing with Aureo de Paula) 
 <br/>
 <br/> 
-2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf) w/ Fengshi Niu and James L. Powell)
+2.  ["Kernel density estimation for undirected dyadic data"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Kernel_Density_Estimation_Dyadic_Data_31Jul2019.pdf), 2019 (w/ Fengshi Niu and James L. Powell)
  * [arXiv version](https://arxiv.org/abs/1907.13630)
  * [Monte Carlo Code]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/DyadicDensity/Dyadic_Density_Monte_Carlo.ipynb)
 <br/>
 <br/> 
-1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_PaperAndAppendix.pdf) submitted (w/ Cristine Pinto)
+1. ["Semiparametrically efficient estimation of the average linear regression function,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_PaperAndAppendix.pdf) conditionally accepted by the _Journal of Econometrics_, 2018 (w/ Cristine Pinto)
   * [Supplemental Web Appendix]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AverageRegression/AverageRegression_27Oct18_WebAppendix.pdf)
   * [Monte Carlo Code](https://github.com/bryangraham/ipt/tree/master/Notebooks) 
 <br/>
@@ -39,7 +43,7 @@ _(Note: documents made available for personal study/use only)_
 2. ["Identification and efficiency bounds for the average match function under conditionally exogenous matching,"]({{ site.url }}{{ site.baseurl}}/downloads/working_papers/AMF/AMF_30April2018rev2.pdf) accepted by the _Journal of Business and Economic Statistics_, 2016 (w/ Guido W. Imbens and Geert Ridder) also available as a [CEMMAP](http://www.cemmap.ac.uk/publication/id/8195) and [NBER](http://www.nber.org/papers/w22098) Working Paper
 <br/>
 <br/>    
-3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/BSG_JournalOfEconometrics_v206n2_2018.pdf) _Journal of Econometrics_ 206 (2): 305 - 335 (w/ Jinyong Hahn, Alex Poirier and Jim Powell)
+3. ["A quantile correlated random coefficients panel data model,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/BSG_JournalOfEconometrics_v206n2_2018.pdf) _Journal of Econometrics_ 206 (2): 305 - 335, 2018 (w/ Jinyong Hahn, Alex Poirier and Jim Powell)
   * [Web appendix]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/QuantilePanelData_GHPP_Aug2016_Revision_SupplementalWebAppendix.pdf) 
   * Stata [Do]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/QuantilePanel_1.do) and [Data]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconometrics_v206n2_2018/NLSY79_Teaching_Fall2014.dta) files
 <br/>
@@ -124,13 +128,13 @@ _(Note: documents made available for personal study/use only)_
 	* [Dissertation version]({{ site.url }}{{ site.baseurl}}/downloads/publications/Econometrica_v76n3_2008/ExcessVarianceContrasts_05may05.pdf) (May 2005)
 <br/>
 <br/> 
-13. ["Identification and estimation of the linear-in-means model of social interactions,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconomicsLetters_v88n1_2005/BSG_EconomicsLetters_v88n1_2005.pdf) _Economics Letters_ 88 (1): 1 - 6, 2005 (w/ Jinyong Hahn)
-<br/>
-<br/> 
 14. ["Rich nations, poor nations: how much can multiple equilibria explain,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/BSG_JournalOfEconomicGrowth_v11n1_2006.pdf) _Journal of Economic Growth_ 11 (1): 5 - 41, 2006 (w/ Jon Temple)
     * [Data]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/cdata.txt)
 	* [Mathematica code for calibration results]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/RichPoor_CalibrationCode.nb) 
-	* [Mathematica code for phase diagrams]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/RichPoor_StabilityFigures.nb) 
+	* [Mathematica code for phase diagrams]({{ site.url }}{{ site.baseurl}}/downloads/publications/JournalOfEconomicGrowth_v11n1_2006/RichPoor_StabilityFigures.nb)
+<br/>
+<br/> 
+13. ["Identification and estimation of the linear-in-means model of social interactions,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/EconomicsLetters_v88n1_2005/BSG_EconomicsLetters_v88n1_2005.pdf) _Economics Letters_ 88 (1): 1 - 6, 2005 (w/ Jinyong Hahn)
 <br/>
 <br/> 
 15. ["Longevity and life-cycle savings,"]({{ site.url }}{{ site.baseurl}}/downloads/publications/ScandinavianJournalOfEconomics_v105n3_2003/BSG_ScandinavianJournalOfEconomics_v105n3_2003.pdf) _Scandinavian Journal of Economics_ 105 (3): 319 - 338, 2003 (w/ David Bloom and David Canning)
