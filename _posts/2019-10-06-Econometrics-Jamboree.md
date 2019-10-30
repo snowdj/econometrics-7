@@ -23,7 +23,8 @@ If you have any logistical questions please write [Fengshi Niu](fniu@berkeley.ed
 **Friday, November 8th, 2019**
 **1011 Evans Hall (Jerzy Neyman Room)**    
 
-**Morning Session: 9AM to 11:30AM (Student Presentations)
+**Morning Session: 9AM to 11:30AM (Student Presentations)**    
+
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1:** |
@@ -39,7 +40,8 @@ If you have any logistical questions please write [Fengshi Niu](fniu@berkeley.ed
 {:.mbtablestyle}                            
 
 
-**Afternoon Session: 2PM to 6PM (Faculty Presentations)
+**Afternoon Session: 2PM to 6PM (Faculty Presentations)**    
+
 | _Time_              | _Speaker_         | _Title_               |
 |:----------------|:--------------- |:--------------- |
 |  |  | **Session 1:** |                        
