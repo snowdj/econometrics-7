@@ -30,7 +30,7 @@ If you have any logistical questions please write [Fengshi Niu](fniu@berkeley.ed
 |  |  | **Session 1:** |
 | 9:00 to 9:20AM | Evan Rose (Berkeley, Economics) |  Who gets a second chance? Effectiveness and equity in supervision of criminal offenders  |
 | 9:20 to 9:40AM | Eli Ben-Michael (Berkeley, Statistics) | Synthetic control and weighted event study models with staggered adoption |
-| 9:40 to 10:00AM | Chelsea Zhang (Berkeley, Statistics) | TBA |
+| 9:40 to 10:00AM | Chelsea Zhang (Berkeley, Statistics) | Active matrix factorization for surveys |
 | 10:00AM to 10:30AM | | Break |
 |  |  | **Session 2:** |
 | 10:30AM to 10:50AM | Lydia Liu (Berkeley, Computer Science) | Competing bandits in matching markets |
