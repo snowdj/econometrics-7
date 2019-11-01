@@ -10,7 +10,7 @@ I am an econometrician with research interests in network formation, the identif
 At Berkeley I teach econometrics at both the undergraduate and graduate levels. A full CV in pdf format is available [here]({{ site.url }}{{ site.baseurl}}/downloads/cv_BSG.pdf).
 
 * [Google Scholar Profile](https://scholar.google.com/citations?user=ff5UvfQAAAAJ&hl=en)
-* [ResearcherID Profile](http://www.researcherid.com/rid/H-4515-2011)
+* [ResearcherID Profile](https://publons.com/researcher/2765912/bryan-s-graham/)
 * [Scopus Profile](http://www.scopus.com/authid/detail.uri?authorId=8221099400)
 * [Ideas/Repec Profile](https://ideas.repec.org/e/pgr95.html)
 

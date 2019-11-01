@@ -1,0 +1,192 @@
+/* Eloqua Form Styles for FY18 template (last updated Jan. 30. 2018) */
+
+.elq-form input, textarea, button, input[type=reset], input[type=button], input[type=submit], input[type=checkbox], input[type=radio], select {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-bottom: 2px;
+}
+.elq-form .field-style {
+	margin-right: 0;
+	margin-left: -10px;
+}
+.elq-form input {
+	width: 100%;
+	height: 35px;
+	padding: 0px 8px;
+}
+.elq-form select {
+	width: 100%;
+	height: 35px;
+	padding: 0px 3px !important;
+	-webkit-appearance: menulist;
+}
+
+/* Multiple Select Field */  
+.elq-form select[multiple] {
+	height:auto;
+	padding: 5px!important;
+	-moz-appearance: none; /*remove field arrow in firefox*/
+	-webkit-appearance: none; /*remove field arrow in chrome*/
+}
+
+/* Multiple Select Field */  
+.elq-form select[multiple]::-ms-expand {
+ 	display: none; /*remove field arrow in ie*/
+}
+  
+.elq-form label, input[type=submit] {
+	margin-top: 15px;
+}
+.elq-form label[for='field0'] {
+	margin-top: 0px;
+}
+
+.elq-form label {
+	white-space:normal!important;
+} 
+
+.elq-form label.instructions {
+	margin-top: 0px;
+}
+
+.elq-form textarea {
+	height: 100px;
+}
+.elq-form .checkbox-span {
+	margin: 15px 0px;
+	display: block;
+}
+.elq-form input[type=checkbox] {
+	width: 15px;
+	height: 15px;
+	padding: 0px;
+	display: inline;
+}
+.elq-form .checkbox-label {
+	margin: 0px 0px 0px 4px;
+	padding: 0px;
+	line-height: 18px;
+	display: inline;
+}
+
+/* Multiple Checkboxes labels */  
+.elq-form .label {
+	background-color: transparent;
+	color:#1C1D1E;
+	font-weight:normal;
+    font-size:14px;
+    margin:5px 0px;
+    padding:0px;
+    white-space:normal;
+ }
+
+/* Radio Buttons */  
+.elq-form input[type=radio] {
+	width:14px; 
+	height:14px; 
+	margin:0px;
+}  
+
+.elq-form .submit-button {
+	background-color: #006D76;
+	border: none;
+	color: #ffffff;
+	font-family: "Open Sans", 'Arial', sans-serif;
+	font-size: 16px !important;
+	height: 50px !important;
+}
+.elq-form .submit-button:hover {
+	background-color: #FFF;
+	border: 1px solid #006D76;
+	color: #006D76;
+}
+
+.elq-form .section-break  {
+    margin:20px 0px 0px -10px;
+    text-align: left;
+ }
+
+.elq-form h3.heading {
+    font-family: "Open Sans", 'Arial', sans-serif;
+    font-size:16px;
+    font-weight: 700;
+	color: #006D76;
+    text-transform: none;
+}
+
+/* Eloqua Form Styles for FY18 template - compact-form class(last updated Jan. 30. 2018) */
+.compact-form .elq-form input {       
+    width:100%;
+    height:30px;     
+    padding: 0px 8px;  
+    margin-bottom:2px;  
+}      
+
+.compact-form .elq-form select {       
+    width:100%;
+    height:30px;   
+    margin-bottom:2px;    
+}      
+ 
+.compact-form .elq-form label {
+	margin-top:8px; 
+}          
+ 
+.compact-form .elq-form textarea {     
+    height:50px;
+}       
+ 
+.compact-form .elq-form .checkbox-span {
+    margin:8px 0px;    
+	display:block;    
+}
+        
+.compact-form .elq-form input[type=checkbox] {
+    width:15px;
+    height:15px;
+    padding:0px;   
+    margin:4px 4px 0px 0px;     
+    display:inline;      
+}
+        
+.compact-form .elq-form .checkbox-label {
+	margin:0px 0px 0px 4px;
+    padding:0px;    
+    line-height:10px !important;    
+    display:inline;   
+    }      
+
+
+/* Multiple Checkboxes area  */
+.compact-form .elq-form .label {
+margin-top:0px;
+ }
+
+/* Multiple Checkboxes */
+.compact-form .elq-form input[name="checkboxes"] {
+	margin: 2px 8px 0px -20px;
+	width: 12px;
+	height: 12px;
+	display: block;
+}
+
+/* Multiple Checkboxes labels */
+.compact-form .elq-form .inner {
+margin: 0px 0px 0px 20px;
+	font-size:12px;
+	line-height: 14px;
+}
+
+/* Radio Buttons */	
+.compact-form .elq-form input[type=radio] {
+	margin: 2px 8px 0px -20px;
+	width: 12px;
+	height: 12px;
+	display: block;
+}
+
+.compact-form .elq-form .submit-button {    
+    font-size:13px !important;
+    height:30px !important;    
+}

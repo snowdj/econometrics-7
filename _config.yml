@@ -24,6 +24,6 @@ github_username:  bryangraham
 sass:
   sass_dir: _sass
 include: ['_pages']
-kramdown:
+kramdown-parser-gfm:
   input: GFM
 highlighter: rouge  
